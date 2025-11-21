@@ -1,0 +1,220 @@
+{
+  "document_info": {
+    "form_type": "FORM COS-8",
+    "file_no": "HR/COS/F31/2024/00020",
+    "site_id": "HR0026870",
+    "licence_no": "COSBHR2024000008",
+    "old_licence_no": "NA",
+    "issue_date": "06-JUN-2024",
+    "valid_upto": "05-JUN-2029"
+  },
+  "issuer": {
+    "authority": "GOVERNMENT OF HARYANA",
+    "department": "Food And Drugs Administration Haryana",
+    "address": "Sco-94, Sector-5, Panchkula, Panchkula, Haryana-134109, India",
+    "licensing_authority": "Manmohan Taneja"
+  },
+  "licensee": {
+    "name": "Freccia Professional India Private Limited",
+    "address": "Plot No 60, Sector 8, IMT Manesar, Gurgaon, Gurgaon, Haryana, India, 122052"
+  },
+  "technical_staff": [
+    {
+      "s_no": 1,
+      "member_name": "Mr. Ashraf Ali",
+      "member_id": "20242018819",
+      "role": "Analytical Chemist",
+      "qualification": "B.Sc"
+    },
+    {
+      "s_no": 2,
+      "member_name": "Mr. Santosh Kumar Rai",
+      "member_id": "20246950311",
+      "role": "Manufacturing Chemist",
+      "qualification": "B.Sc"
+    }
+  ],
+  "conditions_of_license": [
+    "This licence shall be kept on the approved premises and shall be produced at the request of an Inspector appointed under the Drugs & Cosmetics Act, 1940.",
+    "Any change in the technical staff shall be forthwith reported to the Licensing Authority.",
+    "If the licensee wants to manufacture for sale additional items he should apply to the Licensing Authority for the necessary endorsement to the licence as provided in rule 23. This licence shall be deemed to extend to the cosmetics so endorsed.",
+    "The licensee shall inform the Licensing Authority in writing in the event of any change in the constitution of the firm operating under the licence. Where any change in the constitution of the firm takes place, the current licence shall be deemed to be valid for a maximum period of six months from the date on which the change takes place unless, in the meantime, a fresh licence has been taken from the Licensing Authority in the name of the firm with the changed constitution."
+  ],
+  "products": [
+    {
+      "name_of_cosmetic": "Cream",
+      "code": "10320240500072",
+      "brand_name": "Freccia",
+      "ingredients": [
+        {
+          "name": "Ammonium bicarbonate",
+          "specifications": "ISO, In House Specification",
+          "percentage": 25.0,
+          "function": "Neutralizer, Neutralizer"
+        },
+        {
+          "name": "Persulfate",
+          "specifications": "In House Specification",
+          "percentage": 12.5,
+          "function": "Emollient, Bleaching agent"
+        },
+        {
+          "name": "Light Liquid paraffin",
+          "specifications": "ISO",
+          "percentage": 10.0,
+          "function": "Humectant, Emulsifier"
+        },
+        {
+          "name": "Hydrogen Peroxide 50%",
+          "specifications": "In House Specification",
+          "percentage": 8.0,
+          "function": "Emulsifier, Emulsifier"
+        },
+        {
+          "name": "PEG-8 Propylene Glycol Cocoate",
+          "specifications": "In House Specification",
+          "percentage": 4.0,
+          "function": "Emulsifier, Emulsifier"
+        },
+        {
+          "name": "Cetyl alcohol",
+          "specifications": "In House Specification",
+          "percentage": 4.0,
+          "function": "Soothing, Emollient"
+        },
+        {
+          "name": "Arlacel 165",
+          "specifications": "In House Specification",
+          "percentage": 2.2,
+          "function": "Emulsifier, Emulsifier"
+        },
+        {
+          "name": "Cetostearyl alcohol",
+          "specifications": "In House Specification",
+          "percentage": 2.0,
+          "function": "Moisturization, Moisturization"
+        },
+        {
+          "name": "Cucumber extract",
+          "specifications": "In House Specification",
+          "percentage": 1.0,
+          "function": "Moisturization, Moisturization"
+        },
+        {
+          "name": "Isopropyl palmitate",
+          "specifications": "In House Specification",
+          "percentage": 1.0,
+          "function": "Neutralizer, pH adjuster, pH adjuster"
+        },
+        {
+          "name": "Ceteareth 25",
+          "specifications": "ISO",
+          "percentage": 1.0,
+          "function": "Buffer, Antioxidant"
+        },
+        {
+          "name": "Resinase 68",
+          "specifications": "In House Specification",
+          "percentage": 1.0,
+          "function": "pH adjuster, Chelating agent"
+        },
+        {
+          "name": "Stearyl stearate",
+          "specifications": "In House Specification",
+          "percentage": 1.0,
+          "function": "Chelating agent, Solvent"
+        },
+        {
+          "name": "Brij-L25",
+          "specifications": "In House Specification",
+          "percentage": 0.5,
+          "function": ""
+        },
+        {
+          "name": "Reactive Oat Beta glucan",
+          "specifications": "In House Specification",
+          "percentage": 0.5,
+          "function": ""
+        },
+        {
+          "name": "Cucumber Frag-070417",
+          "specifications": "In House Specification",
+          "percentage": 0.5,
+          "function": ""
+        },
+        {
+          "name": "Lactic acid",
+          "specifications": "In House Specification",
+          "percentage": 0.4,
+          "function": ""
+        },
+        {
+          "name": "Purac PH-90",
+          "specifications": "In House Specification",
+          "percentage": 0.4,
+          "function": ""
+        },
+        {
+          "name": "Ormagel BH BS",
+          "specifications": "In House Specification",
+          "percentage": 0.35,
+          "function": ""
+        },
+        {
+          "name": "Acetanilide",
+          "specifications": "In House Specification",
+          "percentage": 0.25,
+          "function": ""
+        },
+        {
+          "name": "Sodium acid phosphate",
+          "specifications": "In House Specification",
+          "percentage": 0.15,
+          "function": ""
+        },
+        {
+          "name": "Ortho-phosphoric acid",
+          "specifications": "In House Specification",
+          "percentage": 0.12,
+          "function": ""
+        },
+        {
+          "name": "Tetra sodium pyrophosphate",
+          "specifications": "In House Specification",
+          "percentage": 0.12,
+          "function": ""
+        },
+        {
+          "name": "Butylated hydroxytoluene",
+          "specifications": "In House Specification",
+          "percentage": 0.1,
+          "function": ""
+        },
+        {
+          "name": "Sodium Hydroxide Pellets",
+          "specifications": "In House Specification",
+          "percentage": 0.05,
+          "function": ""
+        },
+        {
+          "name": "Tetrasodium EDTA",
+          "specifications": "In House Specification",
+          "percentage": 0.05,
+          "function": ""
+        },
+        {
+          "name": "Disodium EDTA",
+          "specifications": "In House Specification",
+          "percentage": 0.05,
+          "function": ""
+        },
+        {
+          "name": "Purified water",
+          "specifications": "ISO",
+          "percentage": 23.61,
+          "function": ""
+        }
+      ]
+    }
+  ]
+}

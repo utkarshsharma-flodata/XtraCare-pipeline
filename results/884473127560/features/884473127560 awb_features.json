@@ -1,0 +1,41 @@
+{
+  "document_info": {
+    "awb_number": "H9DELPP",
+    "tracking_number": "8844 7312 7560",
+    "form_id": "0203",
+    "service_type": "INTL ECONOMY"
+  },
+  "shipper": {
+    "name": "ANKUSH DHINGRA",
+    "company": "GABA OVERSEAS PVT LTD",
+    "address": "90 AMAR BHAWAN, GT ROAD",
+    "city": "PANIPAT",
+    "postal_code": "132103",
+    "country": "IN",
+    "state": "HR"
+  },
+  "consignee": {
+    "name": "",
+    "company": "",
+    "address": "",
+    "city": "",
+    "postal_code": "",
+    "country": "",
+    "state": ""
+  },
+  "billing": {
+    "bill_to": "SHIPPER",
+    "account_number": "333333333/42"
+  },
+  "shipping_details": {
+    "carrier": "FedEx",
+    "package_type": "PKG YOUR PKG",
+    "description": "SPARE PARTS FOR TEXTILE MACHINE"
+  },
+  "financial_summary": {
+    "customs_value": "695.96 EUR"
+  },
+  "regulatory_info": {
+    "terms": "D T R"
+  }
+}

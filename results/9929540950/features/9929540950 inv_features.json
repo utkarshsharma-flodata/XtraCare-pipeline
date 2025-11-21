@@ -1,0 +1,48 @@
+{
+  "document_info": {
+    "issuer": "ZhongBao Chemicals Co., Limited",
+    "invoice_number": "HZG25BT99133",
+    "date": "Sep.28,2025",
+    "sc_number": "",
+    "lc_number": ""
+  },
+  "shipper": {
+    "name": "ZhongBao Chemicals Co., Limited",
+    "address": "WESTLAKE TECHNICAL ZONE, HANGZHOU CITY, ZHEJIANG PROVINCE P.C 310030, CHINA",
+    "fax": "0086-571-87357766",
+    "tel": "0086-571-85811826"
+  },
+  "consignee": {
+    "name": "LAARS TECHAGE LLP",
+    "address": "FLAT NO 285, DDA SFS FLATS, SECTOR-09, POCKET-01, SOUTH WEST DELHI NEW DELHI-110077, INDIA"
+  },
+  "transport_details": {
+    "from": "SHANGHAI",
+    "to": "NEW DELHI",
+    "by": "DHL"
+  },
+  "terms_of_payment": "100% TT IN ADVANCE",
+  "items": [
+    {
+      "marks_and_numbers": "BETA ARBUTIN",
+      "description": "PACKED IN 5CTNS ONLY\nGROSS WEIGHT:115KGS\nHS CODE:2938.9090\nPRODUCT WILL BE USED AS COSMETICS INGREDIENT",
+      "quantity": "100KGS",
+      "unit_price": "USD57.50/KG",
+      "amount": "USD5750.00"
+    }
+  ],
+  "financial_summary": {
+    "total_quantity": "100KGS",
+    "total_amount": "USD5,750.00"
+  },
+  "regulatory_info": {
+    "hs_code": "2938.9090",
+    "product_use": "PRODUCT WILL BE USED AS COSMETICS INGREDIENT"
+  },
+  "bank_details": {
+    "bank_name": "The Hongkong and Shanghai Banking Corporation Limited (HSBC)",
+    "swift_no": "HSBCHKHHHKH",
+    "company": "ZHONGBAO CHEMICALS CO., LIMITED",
+    "account_no": "A/C NO.484-258 975-838"
+  }
+}

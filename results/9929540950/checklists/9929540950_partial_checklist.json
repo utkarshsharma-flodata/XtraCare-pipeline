@@ -1,0 +1,59 @@
+{
+  "bill_of_entry_checklist": {
+    "document_header": {
+      "title": "Bill of Entry for Home Consumption",
+      "document_type": "Home Consumption",
+      "boe_number": "99 2954 0950",
+      "boe_date": "2023-09-30",
+      "mode_of_transport": "Air"
+    },
+    "importer_details": {
+      "importer_name": "Laen Techper LLP",
+      "importer_address": "Surendra Sekhar Sutarpathy, FLAT NO. 804, DSR ELAN'S, SECTOR-102, POCKET 4",
+      "importer_city": "NEW DELHI",
+      "importer_pin": "110077",
+      "ad_code": "0510005"
+    },
+    "supplier_details": {
+      "supplier_name": "ZHONGBAO CHEMICALS CO., LIMITED",
+      "supplier_address": "WENYI TECHNOLOGICAL ZONE, HANGZHOU CITY",
+      "supplier_city": "HANGZHOU",
+      "supplier_country": "CHINA",
+      "terms_of_payment": "100% TT IN ADVANCE"
+    },
+    "invoice_details": {
+      "invoice_number": "HZG25BT99133",
+      "invoice_date": "Sep.28,2025",
+      "invoice_currency": "USD",
+      "invoice_value": "5750.00"
+    },
+    "shipment_details": {
+      "mawb_number": "615 9966 1892",
+      "mawb_date": "4-Oct-2025",
+      "hawb_number": "99 2954 0950",
+      "port_of_loading": "SHANGHAI",
+      "port_of_entry": "NEW DELHI",
+      "country_of_origin": "CHINA",
+      "country_of_consignee": "INDIA",
+      "no_of_packages": 5,
+      "gross_weight": "115.0 kg"
+    },
+    "item_details": [
+      {
+        "serial_number": 1,
+        "ritc_code": "29389090",
+        "description": "BETA ARBUTIN",
+        "quantity": "100KGS",
+        "unit_price": "USD57.50/KG",
+        "assessable_value_in_inr": "5750.00",
+        "country_of_origin": "CHINA"
+      }
+    ],
+    "duty_summary": {
+      "total_assessable_value": "5750.00"
+    },
+    "declaration": {
+      "declaration_text": "I/We declare that the particulars given herein are true and correct."
+    }
+  }
+}

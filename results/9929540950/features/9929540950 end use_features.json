@@ -1,0 +1,35 @@
+{
+  "document_info": {
+    "date": "03-10-2025",
+    "subject": "Item End Use Declaration regarding the shipment vide AWB# 9929540950"
+  },
+  "shipper": {
+    "name": "Laars Techage LLP",
+    "registered_office": {
+      "address": "FLAT NO-285, DDA SFS FLATS, SECTOR-9, POCKET-01, DWARKA, SOUTH WEST, NEW DELHI, South West Delhi, PIN-110077, India",
+      "telephone": "+91 11 45104734",
+      "email": "info@laarstechage.com"
+    }
+  },
+  "consignee": {
+    "name": "The Deputy Commissioner of customs",
+    "address": "New Courier Terminal, IGI Airport, New Delhi"
+  },
+  "items": [
+    {
+      "sr_no": 1,
+      "item_name": "Beta Arbutin",
+      "hsn_code": "29389090",
+      "quantity_in_kgs": "100.00KGS",
+      "total_value_usd": "USD5750.00"
+    }
+  ],
+  "terms_and_conditions": [
+    "The items are not for homemade consumptions and the raw materials for cosmetics use only.",
+    "The goods are trading-wholesale/retail purpose only.",
+    "We request you to kindly clear the shipment."
+  ],
+  "signature": {
+    "authorized_signatory": "For LAARS TECHAGE LLP"
+  }
+}

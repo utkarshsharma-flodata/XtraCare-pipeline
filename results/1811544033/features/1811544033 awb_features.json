@@ -1,0 +1,63 @@
+{
+  "document_info": {
+    "type": "WAYBILL DOC",
+    "not_attached_note": "Not to be attached to package - Hand to Courier",
+    "reproduction_date": "2025-10-04",
+    "data_date": "2025-10-01",
+    "waybill_number": "18 1154 4033",
+    "page": "1 of 1"
+  },
+  "shipper": {
+    "name": "YKK VIETNAM CO., LTD",
+    "contact": "NAP BUI",
+    "address": {
+      "line1": "Lot 10, N2 Road, Nhon Trach 3 Industrial Park",
+      "district": "Nhon Trach District",
+      "province": "Dong Nai Province",
+      "country": "VIETNAM"
+    }
+  },
+  "consignee": {
+    "name": "YKK INDIA PRIVATE LIMITED",
+    "contact": "Mr.Koide",
+    "address": {
+      "line1": "Plot No.699, Sector-2, HSIDC Growth Centre Bawal",
+      "district": "District- Rewari",
+      "state": "Haryana",
+      "postal_code": "123501",
+      "country": "INDIA"
+    }
+  },
+  "routing": {
+    "origin": "VN-SGN-NSG",
+    "destination": "IN-DEL-BWV"
+  },
+  "product_details": {
+    "description": "[P] EXPRESS WORLDWIDE ()",
+    "features_services": "Duties and Taxes UnPaid(DS)",
+    "payer_details": {
+      "frt_ac_no": "527028051"
+    },
+    "duty_service": "DTU"
+  },
+  "shipment_details": {
+    "account_no": "527028051",
+    "customs_value": 408.92,
+    "currency": "USD",
+    "content": "Shaft, Holders, Washer, Cover, Pin, LEVER",
+    "weight": {
+      "declared_weight": 7.6,
+      "unit": "KG"
+    },
+    "dimensions": {
+      "length": 54.5,
+      "width": 37.0,
+      "height": 22.0,
+      "unit": "CM"
+    },
+    "pieces": 1
+  },
+  "license_plates": [
+    "JD014600012259576326"
+  ]
+}

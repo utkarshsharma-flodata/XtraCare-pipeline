@@ -1,0 +1,114 @@
+{
+  "document_info": {
+    "title": "Pixii Home",
+    "subtitle": "Flexibility made simple",
+    "website": "pixiihome.com",
+    "version": "2024-12-06_Ver.2.6_Pixii_Home",
+    "copyright": "Copyright©2024. All data is subject to change without notice."
+  },
+  "product_overview": {
+    "description": "Increase your energy independence. Optimize your energy consumption by charging your batteries with excess energy from the sun or by charging your batteries from the grid when electricity tariffs are low. Spend your stored energy when you need it.",
+    "features": [
+      "Pixii Home is a modular energy storage which allows you to add more capacity as your energy need increases.",
+      "Store energy from the sun to power your home with free, clean, renewable electricity when you need it.",
+      "Get paid for renting out battery capacity to help support your local grid."
+    ]
+  },
+  "highlights": [
+    "Multi-functional software driven converters for unprecedented flexibility and scalability - 10kW to 20kW",
+    "~48VDC safe installation and operation",
+    "10 years or 10 000 cycles with 70% capacity guarantee",
+    "Triple level safety protection with battery fuse and battery breaker",
+    "LFP batteries with safe battery chemistry",
+    "Plug and play cloud service installation",
+    "Simple and user-friendly app with energy management features"
+  ],
+  "technical_specifications": {
+    "models": [
+      {
+        "name": "Pixii Home 10/10",
+        "max_ac_power": "10kW",
+        "nominal_ac_voltage": "230/400 V",
+        "frequency": "50Hz",
+        "peak_efficiency": "96,50%",
+        "nominal_capacity": "10kWh",
+        "weight": 156
+      },
+      {
+        "name": "Pixii Home 20/20",
+        "max_ac_power": "20kW",
+        "nominal_ac_voltage": "230/400 V",
+        "frequency": "50Hz",
+        "peak_efficiency": "96,50%",
+        "nominal_capacity": "20kWh",
+        "weight": 246
+      },
+      {
+        "name": "Extension Kit 10/10",
+        "max_ac_power": "+10kW",
+        "nominal_capacity": "+10kWh",
+        "weight": 90
+      }
+    ],
+    "battery_specifications": {
+      "cell_chemistry": "LFP (Lithium Iron Phosphate)",
+      "dc_battery_voltage_range": "40 - 57.75 V",
+      "dc_battery_nominal_voltage": "51,2 V",
+      "depth_of_discharge": "80%",
+      "discharge_current": "100A"
+    },
+    "operating_conditions": {
+      "ambient_temperature": "-20°C - 45°C",
+      "operating_temperature": "5°C - 45°C",
+      "humidity": "5% - 95% RH (Non-condensing)",
+      "acoustic_noise": "<60dBA at 1m distance",
+      "altitude": "2000m",
+      "cooling_system": "Fan",
+      "heater": "Yes",
+      "degree_of_protection": "IP55"
+    },
+    "interface": {
+      "communication": "Ethernet LAN, Modbus, MQTT, (Wi-Fi for commissioning)",
+      "led_indicators": "Yes"
+    },
+    "physical_properties": {
+      "dimensions": "1717 x 684 x 387 mm"
+    },
+    "warranty": {
+      "duration": "10 years or 10.000 cycles (70% SoH)"
+    },
+    "standards_certifications": {
+      "safety": "IEC/EN 62109-1, IEC/EC 62109-2, IEC/EN 62040-1, IEC/EN 62477-1",
+      "battery": "IEC 62619, UN38.3",
+      "grid": "AS/NZS 4777.2:2020, EN50549-1:2019 Type A & B, (VDE-AR-N 4105:2018-11, EREC G99 Issue 1 – Amendment 6, 09 March 2020 Type A)",
+      "emc": "EN 61000-3-2, EN 61000-3-3, EN 61000-6-1, EN 61000-6-3",
+      "environment": "ETSI EN 63000, ETSI EN 300 019-2-3 (Class 3.2)"
+    }
+  },
+  "applications": [
+    {
+      "name": "Peak shaving",
+      "description": "Reduce your demand charges and save costs by shaving the peaks of your power consumption."
+    },
+    {
+      "name": "Arbitrage",
+      "description": "Support loads from the battery when electricity rates are high, and charge the battery when electricity rates are low."
+    },
+    {
+      "name": "PV self-consumption",
+      "description": "Get the most out of your solar investment and reduce your dependency on the grid through smart power management."
+    },
+    {
+      "name": "DC or AC coupled solar",
+      "description": "With integrated MPPT functionality the Pixii BESS is a complete DC coupled hybrid system."
+    },
+    {
+      "name": "AC back-up",
+      "description": "Secure energy independency during power outages or grid restrictions."
+    },
+    {
+      "name": "Flexibility markets",
+      "description": "Unlock the value of your battery energy storage system and monetize your system's flexibility."
+    }
+  ]
+}

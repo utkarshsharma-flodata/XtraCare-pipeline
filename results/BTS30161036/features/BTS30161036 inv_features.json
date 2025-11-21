@@ -1,0 +1,63 @@
+{
+  "document_info": {
+    "type": "CUSTOM INVOICE",
+    "date": "5.2.2025",
+    "invoice_number": "1358",
+    "expiration_date": "",
+    "customer_id": ""
+  },
+  "shipper": {
+    "name": "Pixii AS",
+    "address": "Andøyfaret 15, 4623 Kristiansand, Norway",
+    "org_nr": "920 652 964",
+    "website": "www.pixii.com"
+  },
+  "customer": {
+    "name": "Vikas Bamrara",
+    "address": "366, DDA SFS Apartment, Pocket 1, Sector 9, Dwarka, New Delhi - 110075, India"
+  },
+  "ship_from": {
+    "name": "Pixii AS / CO Gergonne Slovensko s.r.o.",
+    "address": "Za mostom 1010/21, 031 04 Liptovský Mikuláš, Slovakia"
+  },
+  "ship_to": {
+    "name": "Three Aces Global Logistics Private Ltd",
+    "address": "KH NO. 483 VPO Bharthal Village, Sector 26, Dwarka, New Delhi - 110077, India"
+  },
+  "shipping_details": {
+    "freight_type": "",
+    "est_ship_date": "",
+    "est_gross_weight": "",
+    "est_cubic_weight": "",
+    "total_packages": ""
+  },
+  "items": [
+    {
+      "part_number": "12511",
+      "unit_of_measure": "pc",
+      "description": "PixiiHome OD",
+      "hs_code": "85044095",
+      "quantity": 1,
+      "unit_price": 1654.48,
+      "tax": "",
+      "total_amount": "1 654,48 USD"
+    }
+  ],
+  "financial_summary": {
+    "subtotal": "1 654,48 USD",
+    "taxable": "- USD",
+    "tax_rate": "",
+    "tax": "- USD",
+    "freight": "- USD",
+    "insurance": "- USD",
+    "legal_consular": "- USD",
+    "inspection_cert": "- USD",
+    "other_specify_1": "- USD",
+    "other_specify_2": "- USD",
+    "total": "1 654,48 USD",
+    "currency": "USD"
+  },
+  "terms_and_conditions": {
+    "terms_of_sale": "DAP"
+  }
+}

@@ -1,0 +1,225 @@
+{
+  "document_info": {
+    "from": "State Drugs Controller-Cum-Licensing Authority, Department of Food & Drugs Administration, Haryana, SCO No. 94, Sector-5, Panchkula",
+    "to": "M/s Freecia Professional India Private Limited, Plot No. 60, Sector-8, IMT Manesar, Gurugram-122052 (Haryana)",
+    "memo_no": "HR/COS/F31/2023/00020-2Drug-II-2024",
+    "date": "13/08/2024",
+    "subject": "Permission to manufacture additional Cosmetics items",
+    "reference_letter_date": "18.07.2024",
+    "endst_no": "HR/COS/F31/2023/00020-2Drug-II-2024",
+    "endst_date": "",
+    "signatory": "Manmohan Taneja, State Drugs Controller-cum-Controlling & Licensing Authority, Food & Drugs Administration, Haryana"
+  },
+  "regulatory_info": {
+    "cosmetics_mfg_license_no": "COS8HR2024000008",
+    "standards": [
+      {
+        "standard": "BIS standards IS 4707 (Part II)"
+      }
+    ]
+  },
+  "items": [
+    {
+      "name": "PROADS ABSOLUTE PREMIUM D-Tan Cleanser",
+      "pack_size": "5 gm to 2 kg",
+      "category": "C",
+      "ingredients": [
+        {
+          "s_no": 1,
+          "name": "DM Water",
+          "botanical_name": "Aqua",
+          "specifications": "ISO 22519-2019",
+          "percentage": "Q.S. to make upto 100%",
+          "function": "Solvent"
+        },
+        {
+          "s_no": 2,
+          "name": "Stearic Acid",
+          "botanical_name": "Stearic acid",
+          "specifications": "IS-9681",
+          "percentage": "",
+          "function": "Emulsifier"
+        },
+        {
+          "s_no": 3,
+          "name": "Glycerine",
+          "botanical_name": "Glycerine",
+          "specifications": "Cosmetic grade",
+          "percentage": 5,
+          "function": "Moisturization"
+        },
+        {
+          "s_no": 4,
+          "name": "Cetearyl alcohol/Ginol1618",
+          "botanical_name": "Cetearyl alcohol",
+          "specifications": "Cosmetic grade",
+          "percentage": 2.5,
+          "function": "Emulsifier"
+        },
+        {
+          "s_no": 5,
+          "name": "Plantacare 2000/Galsoft (Decyl glucoside)",
+          "botanical_name": "Decyl glucoside",
+          "specifications": "Cosmetic grade",
+          "percentage": 2,
+          "function": "Surfactant"
+        },
+        {
+          "s_no": 6,
+          "name": "Propylene Glycol",
+          "botanical_name": "Propylene Glycol",
+          "specifications": "Cosmetic grade",
+          "percentage": 2,
+          "function": "Moisturization"
+        },
+        {
+          "s_no": 7,
+          "name": "Kingurit CR505I",
+          "botanical_name": "Titanium Dioxide (CI 77891) & Aluminium Hydroxide & Dimethicone",
+          "specifications": "Cosmetic grade",
+          "percentage": 1.5,
+          "function": "Pigment"
+        },
+        {
+          "s_no": 8,
+          "name": "Ormagel SH BS",
+          "botanical_name": "Hypnea Musciformis Extract, Gelidiella Acerosa Extract, Sargassum Filipendula Extract, Sorbitol, Sodium Benzoate and Potassium Sorbate",
+          "specifications": "Cosmetic grade",
+          "percentage": 1,
+          "function": "Moisturization"
+        },
+        {
+          "s_no": 9,
+          "name": "Cetyl alcohol",
+          "botanical_name": "Cetyl alcohol",
+          "specifications": "Cosmetic grade",
+          "percentage": 1,
+          "function": "Emulsifier"
+        },
+        {
+          "s_no": 10,
+          "name": "Shea Butter",
+          "botanical_name": "Butyrospermum Parkii",
+          "specifications": "Cosmetic grade",
+          "percentage": 1,
+          "function": "Moisturization"
+        },
+        {
+          "s_no": 11,
+          "name": "Saliguard TEP",
+          "botanical_name": "Phenoxyethanol (and) Triethylene glycol",
+          "specifications": "Cosmetic Grade",
+          "percentage": 1.0,
+          "function": "Preservative"
+        },
+        {
+          "s_no": 12,
+          "name": "Cucumber extract",
+          "botanical_name": "Cucumis sativus",
+          "specifications": "ISO 7560:1995",
+          "percentage": 1,
+          "function": "Soothing"
+        },
+        {
+          "s_no": 13,
+          "name": "Beta Abcutin",
+          "botanical_name": "Beta arbutin",
+          "specifications": "Cosmetic grade",
+          "percentage": 1,
+          "function": "Skin lightening"
+        },
+        {
+          "s_no": 14,
+          "name": "Repoly 315",
+          "botanical_name": "Polyacrylamide & C13-14 Isoparaffin & Laureth-7",
+          "specifications": "Cosmetic Grade",
+          "percentage": 1,
+          "function": "Thickener"
+        },
+        {
+          "s_no": 15,
+          "name": "Perlogen SF 3000",
+          "botanical_name": "Aqua (and) GlycolDistearate(and)Lauret h-4 (and)Cocamidopropyl Betaine",
+          "specifications": "Cosmetic Grade",
+          "percentage": 1,
+          "function": "Surfactant"
+        },
+        {
+          "s_no": 16,
+          "name": "Potassium Hydroxide pellets",
+          "botanical_name": "Potassium Hydroxide",
+          "specifications": "Cosmetic Grade",
+          "percentage": 0.7,
+          "function": "pH adjuster"
+        },
+        {
+          "s_no": 17,
+          "name": "Reactive Oat Beta Glucan",
+          "botanical_name": "Beta glucan",
+          "specifications": "Cosmetic Grade",
+          "percentage": 0.5,
+          "function": "Moisturization"
+        },
+        {
+          "s_no": 18,
+          "name": "Niacinamide",
+          "botanical_name": "Niacinamide",
+          "specifications": "Cosmetic Grade",
+          "percentage": 0.5,
+          "function": "Moisturization"
+        },
+        {
+          "s_no": 19,
+          "name": "Lemon Grass Frag-070722",
+          "botanical_name": "Perfume",
+          "specifications": "Cosmetic Grade",
+          "percentage": 0.4,
+          "function": "Perfume"
+        },
+        {
+          "s_no": 20,
+          "name": "Lactic acid Pure Phl-90",
+          "botanical_name": "Lactic acid",
+          "specifications": "Cosmetic Grade",
+          "percentage": 0.1,
+          "function": "Moisturization"
+        },
+        {
+          "s_no": 21,
+          "name": "Sodium Hydroxide Pellets",
+          "botanical_name": "Sodium Hydroxide",
+          "specifications": "Cosmetic Grade",
+          "percentage": 0.04,
+          "function": "pH adjuster"
+        },
+        {
+          "s_no": 22,
+          "name": "Disodium EDTA",
+          "botanical_name": "Disodium EDTA",
+          "specifications": "Cosmetic Grade",
+          "percentage": 0.01,
+          "function": "Chelating agent"
+        },
+        {
+          "s_no": 23,
+          "name": "Lemon Grass Oil",
+          "botanical_name": "Cymbopogon citratus oil",
+          "specifications": "Cosmetic grade",
+          "percentage": 0.01,
+          "function": "Soothing"
+        }
+      ]
+    }
+  ],
+  "usage": {
+    "use": "Face cleanser",
+    "directions": "Apply on wet face, massage gently and rinse off."
+  },
+  "company_info": {
+    "name": "Freecia Professional India Private Limited",
+    "address": "D-007-501, Tower No.1, DLF Corporate Greens, Sector-74A, Gurugram, India, 122004",
+    "contact": "+911245181153",
+    "website": "www.freecia.in",
+    "email": "info@freecia.in"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "document_info": {
+    "awb_number": "615 9966 1892",
+    "date": "4-Oct-2025",
+    "issued_by": "EUROPEAN AIR TRANSPORT LEIPZIG GMBH",
+    "member_of": "IATA"
+  },
+  "shipper": {
+    "name": "DHL INTERNATIONAL PTE LIMITED",
+    "address": "75 AIRPORT CARGO ROAD, ECC2 02-01, SINGAPORE"
+  },
+  "consignee": {
+    "name": "DHL EXPRESS (INDIA) PRIVATE LIMITED",
+    "address": "IGI AIRPORT HAJ TERMINAL, NEW DELHI 110037, INDIA"
+  },
+  "issuing_carrier": {
+    "agent_name": "DHL 1",
+    "agent_city": "SATS EXPRESS COURIER CENTRE",
+    "iata_code": "3230031"
+  },
+  "shipping_details": {
+    "airport_of_departure": "SINGAPORE",
+    "airport_of_destination": "NEW DELHI",
+    "flight_date": "DO 8410",
+    "carrier": "DO",
+    "routing": "DEL",
+    "currency": "INR",
+    "nvd": true
+  },
+  "items": [
+    {
+      "number_of_pieces": 269,
+      "gross_weight": 2958.5,
+      "unit": "K",
+      "chargeable_weight": 3085,
+      "rate_charge": "",
+      "total": "AS AGREED",
+      "description": "CONSOL CARGO AS PER MANIFEST ATTACHED"
+    }
+  ],
+  "financial_summary": {
+    "prepaid": "AS AGREED",
+    "collect": "",
+    "valuation_charge": "",
+    "tax": "",
+    "total_other_charges_due_agent": "",
+    "total_other_charges_due_carrier": "",
+    "total_prepaid": "AS AGREED",
+    "total_collect": ""
+  },
+  "regulatory_info": {
+    "signature_of_shipper": "",
+    "signature_of_issuing_carrier_or_agent": ""
+  }
+}

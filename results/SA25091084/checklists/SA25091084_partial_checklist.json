@@ -1,0 +1,125 @@
+
+{
+  "bill_of_entry_checklist": {
+    "document_header": {
+      "mode_of_transport": "Air"
+    },
+    "importer_details": {
+      "importer_name": "DT Detection Technology India Private Limited",
+      "importer_address": "601, 6th Floor, Tower – E, Cyberwalk, Plot No. – CP9, Sector 122052 Gurgaon, India",
+      "importer_city": "Gurgaon",
+      "importer_state": "Haryana",
+      "importer_pin": "122052"
+    },
+    "supplier_details": {
+      "supplier_name": "Detection Technology Plc",
+      "supplier_address": "Elektroniikkatie 17, 90590 Oulu, Finland",
+      "supplier_city": "Oulu",
+      "supplier_country": "Finland",
+      "terms_of_payment": "Net 30 Days from Invoice Date"
+    },
+    "invoice_details": {
+      "invoice_number": "S10358993",
+      "invoice_date": "2025-09-18",
+      "invoice_currency": "INR",
+      "invoice_value": 2223418.0
+    },
+    "shipment_details": {
+      "mawb_number": "406-44176661",
+      "hawb_number": "SA250910843",
+      "port_of_loading": "SHENZHEN",
+      "port_of_entry": "NEW DELHI",
+      "country_of_origin": "China",
+      "country_of_consignee": "India",
+      "no_of_packages": 9,
+      "gross_weight": "65K",
+      "marks_and_numbers": "CONSOLIDATION AS PER ATTACHED MANIFEST"
+    },
+    "item_details": [
+      {
+        "serial_number": 1,
+        "description": "3000008478 MSCRW DIN7985 M2.5x16 A2 70",
+        "hs_code": "7318159090",
+        "quantity": "4000 ea",
+        "unit_price": 2.0,
+        "assessable_value_in_inr": 8000.0,
+        "country_of_origin": "CN"
+      },
+      {
+        "serial_number": 2,
+        "description": "3000007710 MNUT DIN985 M2.5 A2 70",
+        "hs_code": "73181600",
+        "quantity": "5200 ea",
+        "unit_price": 6.0,
+        "assessable_value_in_inr": 31200.0,
+        "country_of_origin": "CN"
+      },
+      {
+        "serial_number": 3,
+        "description": "3000002607 MWSH DIN125A M2.5 A2 HV140",
+        "hs_code": "7318220001",
+        "quantity": "20000 ea",
+        "unit_price": 1.0,
+        "assessable_value_in_inr": 20000.0,
+        "country_of_origin": "CN"
+      },
+      {
+        "serial_number": 4,
+        "description": "3000011193 Aurora 1.6 Cu filter t0.6",
+        "hs_code": "7409190000",
+        "quantity": "504 ea",
+        "unit_price": 155.0,
+        "assessable_value_in_inr": 78120.0,
+        "country_of_origin": "CN"
+      },
+      {
+        "serial_number": 5,
+        "description": "3000009031 Aurora MCBL flex 32pIn",
+        "hs_code": "8544421900",
+        "quantity": "500 ea",
+        "unit_price": 50.0,
+        "assessable_value_in_inr": 25000.0,
+        "country_of_origin": "CN"
+      },
+      {
+        "serial_number": 6,
+        "description": "3000011307 X-Card3 1.6 HE Bas DE CSI 4.0",
+        "hs_code": "9022909090",
+        "quantity": "30 ea",
+        "unit_price": 6530.0,
+        "assessable_value_in_inr": 195900.0,
+        "country_of_origin": "CN"
+      },
+      {
+        "serial_number": 7,
+        "description": "3000009226 X-Card3 1.6 LE, GOS:Tb screen",
+        "hs_code": "9022909090",
+        "quantity": "30 ea",
+        "unit_price": 3561.0,
+        "assessable_value_in_inr": 106830.0,
+        "country_of_origin": "CN"
+      },
+      {
+        "serial_number": 8,
+        "description": "3000029973 X-Card D021606414E",
+        "hs_code": "9022909090",
+        "quantity": "200 ea",
+        "unit_price": 7885.0,
+        "assessable_value_in_inr": 1577000.0,
+        "country_of_origin": "CN"
+      },
+      {
+        "serial_number": 9,
+        "description": "3000031489 X-GCU XS",
+        "hs_code": "9022909090",
+        "quantity": "12 ea",
+        "unit_price": 15114.0,
+        "assessable_value_in_inr": 181368.0,
+        "country_of_origin": "CN"
+      }
+    ],
+    "duty_summary": {
+      "total_assessable_value": 2223418.0
+    }
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "document_info": {
+    "document_type": "",
+    "document_number": "",
+    "order_number": "",
+    "document_date": "",
+    "pick_up_date": "",
+    "currency": "",
+    "delivery_terms": "",
+    "customer_number": "",
+    "seller_name": "",
+    "customer_order": "",
+    "customer_reference": ""
+  },
+
+  "delivery_details": {
+    "delivery_name": "",
+    "delivery_address": "",
+    "delivery_city": "",
+    "delivery_state": "",
+    "delivery_country": "",
+    "delivery_contact": "",
+    "delivery_email": ""
+  },
+
+  "invoice_details": {
+    "invoice_name": "",
+    "invoice_address": "",
+    "invoice_city": "",
+    "invoice_state": "",
+    "invoice_country": ""
+  },
+
+  "item_details": [
+    {
+      "product_number": "",
+      "description": "",
+      "quantity": "",
+      "unit": ""
+    }
+  ],
+
+  "shipment_details": {
+    "pickup_location": "",
+    "pickup_reference": "",
+    "freight_company": "",
+    "freight_contact": "",
+    "shipping_address": "",
+    "shipping_city": "",
+    "shipping_country": ""
+  },
+
+  "company_information": {
+    "company_name": "",
+    "company_address": "",
+    "company_city": "",
+    "company_country": "",
+    "website": "",
+    "email": "",
+    "corporate_id_number": "",
+    "vat_registration_number": "",
+    "eori_number": "",
+    "swift_code": "",
+    "iban": "",
+    "business_register": "",
+    "legal_note": ""
+  }
+}

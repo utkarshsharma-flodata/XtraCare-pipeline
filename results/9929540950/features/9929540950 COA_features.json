@@ -1,0 +1,102 @@
+{
+  "document_info": {
+    "title": "CERTIFICATE OF ANALYSIS",
+    "product_name": "BETA ARBUTIN",
+    "batch_number": "20250712",
+    "analysis_basis": "IN-HOUSE STANDARD",
+    "date_of_mfg": "2025-07-12",
+    "date_of_expiry": "2027-07-11"
+  },
+  "quantity": "100 kgs",
+  "packages": {
+    "size": "20kg/ctn"
+  },
+  "storage_condition": "Keep the container tightly closed in a dry and well-ventilated indoor area, away from light or heat or moisture",
+  "specification": [
+    {
+      "item": "Appearance",
+      "specification": "White crystalline powder",
+      "results": "Conforms"
+    },
+    {
+      "item": "Assay",
+      "specification": "Not less than 98.0%",
+      "results": "99.9%"
+    },
+    {
+      "item": "Melting point",
+      "specification": "199-201°C ± 0.5°C",
+      "results": "200.4-200.9°C"
+    },
+    {
+      "item": "Clarity of water solution",
+      "specification": "Transparency, colorless, none suspended matters",
+      "results": "Conforms"
+    },
+    {
+      "item": "pH",
+      "specification": "5.0-7.0",
+      "results": "5.6"
+    },
+    {
+      "item": "Specific optical rotation",
+      "specification": "-6.6° ± 2°",
+      "results": "-6.5-2°"
+    },
+    {
+      "item": "Arsenic",
+      "specification": "Not more than 2ppm",
+      "results": "<2ppm"
+    },
+    {
+      "item": "Hydroquinone",
+      "specification": "Not more than 10ppm",
+      "results": "2.0ppm"
+    },
+    {
+      "item": "Heavy metals",
+      "specification": "Not more than 10ppm",
+      "results": "<10ppm"
+    },
+    {
+      "item": "Loss on drying",
+      "specification": "Not more than 0.5%",
+      "results": "0.06%"
+    },
+    {
+      "item": "Residue on ignition",
+      "specification": "Not more than 0.5%",
+      "results": "0.06%"
+    }
+  ],
+  "conclusion": "The above results comply with In-House Standard.",
+  "analysts": [
+    {
+      "role": "Analyst",
+      "name": "Liu Yan",
+      "signature": "Signature"
+    },
+    {
+      "role": "Checker",
+      "name": "Lin Jiayin",
+      "signature": "Signature"
+    },
+    {
+      "role": "Supervisor",
+      "name": "Yu Jie",
+      "signature": "Signature"
+    }
+  ],
+  "company_info": {
+    "name": "ZHONGBAO CHEMICALS CO., LIMITED",
+    "address": "Westlake Technical Zone, Hangzhou City, Zhejiang Province P.C 310030, China",
+    "phone": "+86-571-85811862",
+    "fax": "+86-571-87357766",
+    "email": "sales@zhongbaochemical.com",
+    "website": "www.zhongbaochemical.com"
+  },
+  "license": {
+    "member_of": "Hangzhou Zhongbo I/E Corp.,Ltd",
+    "license_no": "913301066652284722"
+  }
+}

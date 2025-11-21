@@ -1,0 +1,233 @@
+{
+  "bill_of_entry_checklist": {
+    "document_header": {
+      "title": "Bill of Entry for Home Consumption",
+      "document_type": "Home Consumption",
+      "boe_number": "",
+      "boe_date": "11/02/2025",
+      "job_number": "10654",
+      "job_date": "11/02/2025",
+      "user_job_number": "",
+      "port_of_submission": "DELHI AIR CARGO ACC [INDEL4]",
+      "customs_house_code": "",
+      "mode_of_transport": "Air",
+      "assessment_officer": "",
+      "filing_location": "DELHI",
+      "prepared_by": "VIKAS BAMRARA",
+      "prepared_datetime": "11-Feb-2025",
+      "version": "1.0"
+    },
+    "cha_details": {
+      "cha_name": "IMPEX BUREAU",
+      "cha_code": "AAKPG4364KCH001",
+      "cha_address": "D-96, THIRD FLOOR, ADDRESS 2, DELHI, CITY 110000",
+      "cha_city": "DELHI",
+      "cha_state": "DELHI",
+      "cha_pin": "110000"
+    },
+    "importer_details": {
+      "importer_name": "PIXII AS",
+      "importer_address": "A-104, NTPC CGHS SOCIETY, PLOT NO-10, NEAR SANSKRITI, NEW DELHI",
+      "importer_city": "NEW DELHI",
+      "importer_state": "DELHI",
+      "importer_pin": "110000",
+      "branch_code": "0",
+      "pan_number": "AKUPB8188L",
+      "gstin_number": "",
+      "state_code": "07",
+      "importer_type": "Private",
+      "green_channel": "No",
+      "first_check": "No",
+      "prior_be": "Yes",
+      "section_48": "No",
+      "kacha_be": "No",
+      "ad_code": "6390043",
+      "payment_mode": "TRANSACTION"
+    },
+    "supplier_details": {
+      "supplier_name": "PIXII AS",
+      "supplier_address": "CF ANDOYFARET 15, 4623 KRISTIANSAND S, NORWAY",
+      "supplier_city": "KRISTIANSAND S",
+      "supplier_country": "NORWAY",
+      "terms_of_payment": "OTH",
+      "buyer_seller_related": "NO",
+      "nature_of_transaction": "OTHERS",
+      "valuation_method": "RULE4 TRANSACTION VALUE",
+      "exchange_rate": "1 USD = 88.4000 INR",
+      "freight": "0.00 INR",
+      "insurance": "18.61 USD",
+      "agency_commission": "0.00",
+      "misc_charges": "0.00",
+      "high_sea_sale": "0.00",
+      "discount": "0.00",
+      "svb_reference": {}
+    },
+    "invoice_details": {
+      "invoice_number": "1358",
+      "invoice_date": "05/02/2025",
+      "invoice_currency": "USD",
+      "invoice_value": "1654.48",
+      "freight_in_inr": "0.00",
+      "insurance_in_inr": "1645.12",
+      "total_invoice_value_in_inr": "147901.41",
+      "exchange_rate_details": {
+        "foreign_currency": "USD",
+        "rate_to_inr": "88.4000",
+        "conversion_note": "INS: 1 USD = 88.4000 INR"
+      }
+    },
+    "shipment_details": {
+      "mawb_number": "NOMAWB",
+      "mawb_date": "07/02/2025",
+      "hawb_number": "BTS30161036",
+      "hawb_date": "07/02/2025",
+      "port_of_loading": "BRATISLAVA",
+      "port_of_entry": "DELHI",
+      "country_of_origin": "NORWAY",
+      "country_of_consignee": "NORWAY",
+      "no_of_packages": "1",
+      "gross_weight": "150.000 KGS",
+      "marks_and_numbers": "AS PER AWB",
+      "igm_number": "0",
+      "igm_date": "",
+      "igm_inward_date": "",
+      "transit_country": "",
+      "location": "DELHI AIR CARGO ACC [ INDEL4 ] [ Air ]"
+    },
+    "item_details": [
+      {
+        "serial_number": "1",
+        "ritc_code": "85381010",
+        "description": "PIXII HOME OD (12511) (CABINET OF ENERGY STORAGE SYSTEM) (FOR INDUSTRIAL USE ONLY) (NA - NA)",
+        "generic_description": "CABINET OF ENERGY STORAGE SYSTEM",
+        "quantity": "1.000000",
+        "unit": "PCS",
+        "unit_price": "1654.480000",
+        "assessable_value_in_inr": "147901.41",
+        "cth": "85381010",
+        "bcd_rate": "7.50 %",
+        "bcd_amount": "11092.61",
+        "aidc_duty_rate": "0.00 %",
+        "aidc_duty_amount": "0.00",
+        "social_welfare_surcharge_rate": "10.00 %",
+        "social_welfare_surcharge_amount": "1109.26",
+        "igst_rate": "18.00 %",
+        "igst_amount": "28818.59",
+        "igst_cess_rate": "0.00 %",
+        "igst_cess_amount": "0.00",
+        "manufacturer_name": "PIXII AS",
+        "brand_name": "UNBRANDED",
+        "model": "12511",
+        "country_of_origin": "NORWAY",
+        "end_use": "GNX200",
+        "account_status": "0",
+        "remarks": "",
+        "exemption_details": {
+          "notn_number": "",
+          "scheme_code": "",
+          "scheme_name": "",
+          "exemption_rate": "",
+          "bcd_exemption_applied": ""
+        }
+      }
+    ],
+    "duty_summary": {
+      "total_assessable_value": "147901.41",
+      "bcd_total": "11092.61",
+      "sws_total": "1109.26",
+      "cvd_total": "0.00",
+      "aidc_total": "0.00",
+      "igst_total": "28818.59",
+      "igst_cess_total": "0.00",
+      "grand_total_in_inr": "41020.00",
+      "grand_total_in_words": "Rupees Forty-One Thousand Twenty Only"
+    },
+    "igst_details": [
+      {
+        "invoice_number": "1",
+        "item_number": "1",
+        "duty_type": "G",
+        "igst_flag": "I",
+        "igst_notn_number": "001/2017 III389",
+        "igst_rate": "18.00",
+        "igst_amount": "28818.59",
+        "exemption_notn_number": "",
+        "exemption_rate": "0.00",
+        "exemption_amount": "0.00"
+      },
+      {
+        "invoice_number": "1",
+        "item_number": "1",
+        "duty_type": "C",
+        "igst_flag": "A",
+        "igst_notn_number": "011/2021 17",
+        "igst_rate": "0.00",
+        "igst_amount": "0.00",
+        "exemption_notn_number": "",
+        "exemption_rate": "0.00",
+        "exemption_amount": "0.00"
+      }
+    ],
+    "single_window_info": [
+      {
+        "invoice_number": "1",
+        "item_number": "1",
+        "type": "CHR",
+        "qualifier_code": "SQC",
+        "qualifier_text": "Item Characteristics",
+        "measurement": "1.000000",
+        "unit": "NOS"
+      }
+    ],
+    "single_window_statement": [
+      {
+        "invoice_number": "0",
+        "item_number": "0",
+        "statement_for": "M",
+        "statement_type": "DEC",
+        "statement_code": "CUG00"
+      },
+      {
+        "invoice_number": "0",
+        "item_number": "0",
+        "statement_for": "M",
+        "statement_type": "DEC",
+        "statement_code": "CUG01"
+      },
+      {
+        "invoice_number": "1",
+        "item_number": "0",
+        "statement_for": "N",
+        "statement_type": "DEC",
+        "statement_code": "CUV01"
+      },
+      {
+        "invoice_number": "1",
+        "item_number": "0",
+        "statement_for": "N",
+        "statement_type": "DEC",
+        "statement_code": "CUV02"
+      },
+      {
+        "invoice_number": "1",
+        "item_number": "0",
+        "statement_for": "N",
+        "statement_type": "DEC",
+        "statement_code": "CUV03"
+      }
+    ],
+    "gst_summary": {
+      "gstin_number": "",
+      "state_code": "07",
+      "state_name": "DELHI",
+      "igst_assessable_value": "147901.41",
+      "igst_amount": "28818.59",
+      "gst_cess_amount": "0.00"
+    },
+    "declaration": {
+      "declaration_text": "I/We declare that the particulars given herein are true and correct.",
+      "importer_signature": "PIXII AS",
+      "signature_date": "11-Feb-2025"
+    }
+  }
+}

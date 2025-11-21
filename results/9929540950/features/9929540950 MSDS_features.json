@@ -1,0 +1,174 @@
+{
+  "document_info": {
+    "type": "Material Safety Data Sheet",
+    "sections": [
+      {
+        "section_number": 1,
+        "title": "Chemical Product and Company Identification",
+        "msds_identification": "",
+        "name": "BETA ARBUTIN",
+        "company_identification": "ZHONGBAO CHEMICALS CO., LIMITED"
+      },
+      {
+        "section_number": 2,
+        "title": "Composition, Information on Ingredients",
+        "ingredients": [
+          {
+            "cas_number": "497-76-7",
+            "chemical_name": "BETA ARBUTIN",
+            "einecs_number": "unlisted"
+          }
+        ]
+      },
+      {
+        "section_number": 3,
+        "title": "Hazards Identification",
+        "potential_acute_health_effects": "Hazardous in case of eye contact (irritant). Slightly hazardous in case of inhalation (lung irritant). Non-irritant for skin.",
+        "potential_chronic_health_effects": "CARCINOGENIC EFFECTS: Not available. MUTAGENIC EFFECTS: Not available. TERATOGENIC EFFECTS: Not available. DEVELOPMENTAL TOXICITY: Classified Reproductive system/toxin/female [SUSPECTED]. Repeated or prolonged exposure is not known to aggravate medical condition."
+      },
+      {
+        "section_number": 4,
+        "title": "First Aid Measures",
+        "eye_contact": "Check for and remove any contact lenses. In case of contact, immediately flush eyes with plenty of water for at least 15 minutes. Cold water may be used. Get medical attention.",
+        "skin_contact": "Wash with soap and water. Get medical attention if irritation develops. Cold water may be used.",
+        "serious_skin_contact": "Not available.",
+        "inhalation": "If inhaled, remove to fresh air. If not breathing, give artificial respiration. If breathing is difficult, give oxygen. Get medical attention if symptoms appear.",
+        "serious_inhalation": "Not available.",
+        "ingestion": "Do NOT induce vomiting unless directed to do so by medical personnel. Never give anything by mouth to an unconscious person. If large quantities of this material are swallowed, call a physician immediately. Loosen tight clothing such as a collar, tie, belt or waistband.",
+        "serious_ingestion": "Not available."
+      },
+      {
+        "section_number": 5,
+        "title": "Fire and Explosion Data",
+        "flammability": "May be combustible at high temperature.",
+        "auto_ignition_temperature": "Not available.",
+        "flash_points": "Not available.",
+        "flammable_limits": "Not available.",
+        "products_of_combustion": "These products are carbon oxides (CO, CO2).",
+        "fire_hazards": "Slightly flammable to flammable in presence of open flames and sparks.",
+        "explosion_hazards": {
+          "mechanical_impact": "Not available.",
+          "static_discharge": "Not available."
+        },
+        "fire_fighting_media_and_instructions": "SMALL FIRE: Use DRY chemical powder. LARGE FIRE: Use water spray, fog or foam. Do not use water jet.",
+        "special_remarks_on_fire_hazards": "Not available.",
+        "special_remarks_on_explosion_hazards": "Not available."
+      },
+      {
+        "section_number": 6,
+        "title": "Accidental Release Measures",
+        "small_spill": "Use appropriate tools to put the spilled solid in a convenient waste disposal container. Finish cleaning by spreading water on the contaminated surface and dispose of according to local and regional authority requirements.",
+        "large_spill": "Use a shovel to put the material into a convenient waste disposal container. Finish cleaning by spreading water on the contaminated surface and allow to evacuate through the sanitary system."
+      },
+      {
+        "section_number": 7,
+        "title": "Handling and Storage",
+        "precautions": "Keep locked up. Keep away from heat. Keep away from sources of ignition. Empty containers pose a fire risk, evaporate the residue under a fume hood. Ground all equipment containing material. Do not breathe dust. Avoid contact with eyes. Wear suitable protective clothing. If you feel unwell, seek medical attention and show the label when possible.",
+        "storage": "Keep container tightly closed. Keep container in a cool, well-ventilated area."
+      },
+      {
+        "section_number": 8,
+        "title": "Exposure Controls, Personal Protection",
+        "engineering_controls": "Use process enclosures, local exhaust ventilation, or other engineering controls to keep airborne levels below recommended exposure limits. If user operations generate dust, fume or mist, use ventilation to keep exposure to airborne contaminants below the exposure limit.",
+        "personal_protection": "Splash goggles. Lab coat. Dust respirator. Be sure to use an approved/certified respirator or equivalent. Gloves.",
+        "personal_protection_large_spill": "Splash goggles. Full suit. Dust respirator. Boots. Gloves. A self contained breathing apparatus should be used to avoid inhalation of the product. Suggested protective clothing might not be sufficient; consult a specialist BEFORE handling this product.",
+        "exposure_limits": "Not available."
+      },
+      {
+        "section_number": 9,
+        "title": "Physical and Chemical Properties",
+        "physical_state_and_appearance": "White crystalline powder",
+        "odor": "Not available.",
+        "taste": "Not available.",
+        "color": "White.",
+        "ph": "Not available.",
+        "boiling_point": "Not available.",
+        "specific_gravity": "Not available.",
+        "vapor_pressure": "Not applicable.",
+        "vapor_density": "Not available.",
+        "volatility": "Not available.",
+        "odor_threshold": "Not available.",
+        "water_oil_dist_coeff": "Not available.",
+        "ionicity": "Not available.",
+        "dispersion_properties": "See solubility in water.",
+        "solubility": "Partially soluble in cold water."
+      },
+      {
+        "section_number": 10,
+        "title": "Stability and Reactivity",
+        "stability": "The product is stable.",
+        "instability_temperature": "Not available.",
+        "conditions_of_instability": "Not available.",
+        "incompatibility_with_various_substances": "Slightly reactive to reactive with oxidizing agents.",
+        "corrosivity": "Non-corrosive in presence of glass.",
+        "special_remarks_on_reactivity": "Not available.",
+        "special_remarks_on_corrosivity": "Not available.",
+        "polymerization": "Will not occur."
+      },
+      {
+        "section_number": 11,
+        "title": "Toxicological Information",
+        "routes_of_entry": "Absorbed through skin. Eye contact. Inhalation. Ingestion.",
+        "toxicity_to_animals": {
+          "ld50": "Not available.",
+          "lc50": "Not available."
+        },
+        "chronic_effects_on_humans": "DEVELOPMENTAL TOXICITY: Classified Reproductive system/toxin/female [SUSPECTED].",
+        "other_toxic_effects_on_humans": "Slightly hazardous in case of inhalation (lung irritant). Non-irritant for skin.",
+        "special_remarks_on_toxicity_to_animals": "Not available.",
+        "special_remarks_on_chronic_effects_on_humans": "Not available.",
+        "special_remarks_on_other_toxic_effects_on_humans": "Not available."
+      },
+      {
+        "section_number": 12,
+        "title": "Ecological Information",
+        "ecotoxicity": "Not available.",
+        "bod5_and_cod": "Not available.",
+        "products_of_biodegradation": "Possibly hazardous short term degradation products are not likely. However, long term degradation products may arise.",
+        "toxicity_of_the_products_of_biodegradation": "The product itself and its products of degradation are not toxic.",
+        "special_remarks_on_the_products_of_biodegradation": "Not available."
+      },
+      {
+        "section_number": 13,
+        "title": "Disposal Considerations",
+        "waste_disposal": ""
+      },
+      {
+        "section_number": 14,
+        "title": "Transport Information",
+        "rid_adr": "Non-hazardous for road transport.",
+        "imdg_imo": "Non-hazardous for sea transport.",
+        "iata": "Non-hazardous for air transport."
+      },
+      {
+        "section_number": 15,
+        "title": "Regulatory Information",
+        "federal_and_state_regulations": "No products were found.",
+        "other_regulations": "OSHA: Hazardous by definition of Hazard Communication Standard (29 CFR 1910.1200).",
+        "other_classifications": {
+          "whmis_canada": "CLASS D-2A: Material causing other toxic effects (VERY TOXIC).",
+          "dscl_eec": "R36- Irritating to eyes. R60- May impair fertility."
+        },
+        "hmism_usa": {
+          "health_hazard": 2,
+          "fire_hazard": 1,
+          "reactivity": 0,
+          "personal_protection": "E"
+        },
+        "national_fire_protection_association_usa": {
+          "health": 2,
+          "flammability": 1,
+          "reactivity": 0,
+          "specific_hazard": ""
+        },
+        "protective_equipment": "Gloves. Lab coat. Dust respirator. Be sure to use an approved/certified respirator or equivalent. Wear appropriate respirator when ventilation is inadequate. Splash goggles."
+      },
+      {
+        "section_number": 16,
+        "title": "Other Information",
+        "msds_creation_date": "05/05/2023",
+        "revision_date": "05/04/2025"
+      }
+    ]
+  }
+}

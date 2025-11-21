@@ -1,0 +1,81 @@
+{
+  "document_info": {
+    "awb_number": "406-44176661",
+    "issue_date": "",
+    "issued_by": "United Parcel Service Co.",
+    "address": "1400 North Hurstbourne Parkway, Louisville, KY 40223 United States"
+  },
+  "shipper": {
+    "name": "SINOTECH LOGISTICS CO., LTD.",
+    "address": "27TH FLOOR, BLOCK A, WORLD TRADE PLAZA, FUHONG RD, SHENZHEN CHINA",
+    "telephone": "0755-83511974",
+    "fax": "0755-83666421",
+    "email": "914403007582579195"
+  },
+  "consignee": {
+    "name": "EMU LINES PVT. LTD.",
+    "address": "201, 3A, SIDDHARTH CHAMBER-2, KALU SARAI, HAUZ KHAS, NEW DELHI-110016, INDIA",
+    "telephone": "+91 11 47771233",
+    "mobile": "+91-9818028171",
+    "email": "JAGMOHAN.NEGI@EMULINES.NET"
+  },
+  "notify_party": {
+    "name": "SAME AS CONSIGNEE"
+  },
+  "agent": {
+    "name": "SINOTECH LOGISTICS CO., LTD",
+    "iata_code": "0735794",
+    "account_no": "",
+    "airport_of_departure": "SHENZHEN"
+  },
+  "routing": {
+    "to": "DEL",
+    "by_first_carrier": "",
+    "to_by": "",
+    "airport_of_destination": "NEW DELHI",
+    "flight_date": "10 OCT 2025"
+  },
+  "handling_information": {
+    "total_pieces": 9,
+    "weight": "65K",
+    "volume": "0.83CBM",
+    "dimensions": [
+      "40*31*20CM/1",
+      "86*45*31CM/6",
+      "41*13*23CM/2"
+    ],
+    "freight_terms": "FREIGHT PREPAID"
+  },
+  "items": [
+    {
+      "pieces": 9,
+      "gross_weight": 65,
+      "chargeable_weight": 138.5,
+      "rate_charge": 25.18,
+      "total": 3487.43,
+      "description": "CONSOLIDATION AS PER ATTACHED MANIFEST"
+    }
+  ],
+  "financial_summary": {
+    "prepaid": 3487.43,
+    "collect": "",
+    "other_charges": {
+      "awb": "50.00",
+      "myc": "692.500",
+      "msc": "186.200"
+    },
+    "total_other_charges_due_agent": "",
+    "total_other_charges_due_carrier": 908.7,
+    "total_prepaid": 4396.13,
+    "total_collect": ""
+  },
+  "currency_conversion": {
+    "currency_conversion_rates": "",
+    "cc_charges_in_dest_currency": ""
+  },
+  "execution": {
+    "date": "10 OCT 2025",
+    "place": "SHENZHEN",
+    "signature": "SINOTECH LOGISTICS CO., LTD"
+  }
+}

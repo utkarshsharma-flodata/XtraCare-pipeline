@@ -1,0 +1,58 @@
+{
+  "document_info": {
+    "awb_number": "615 9875 3012",
+    "date": "8-Oct-2025",
+    "place": "SINGAPORE",
+    "issuing_carrier": "DHL"
+  },
+  "shipper": {
+    "name": "DHL INTERNATIONAL PTE LIMITED",
+    "address": "75 AIRPORT CARGO ROAD, ECC2 02-01, SINGAPORE"
+  },
+  "consignee": {
+    "name": "DHL EXPRESS (INDIA) PRIVATE LIMITED",
+    "address": "IGI AIRPORT HAJ TERMINAL, NEW DELHI 110037, INDIA"
+  },
+  "carrier": {
+    "name": "EUROPEAN AIR TRANSPORT LEIPZIG GMBH",
+    "iata_member": "MEMBER OF IATA"
+  },
+  "agent": {
+    "name": "DHL 1 SATS EXPRESS COURIER CENTRE",
+    "iata_code": "3230031"
+  },
+  "shipping_details": {
+    "departure": {
+      "airport": "SINGAPORE"
+    },
+    "destination": {
+      "airport": "NEW DELHI",
+      "flight_number": "DO 8411",
+      "flight_date": "XX"
+    },
+    "routing": {
+      "to": "DEL",
+      "carrier": "DO"
+    },
+    "currency": "INR",
+    "charges": {
+      "weight_charge": "AS AGREED",
+      "other_charges": "AS AGREED"
+    }
+  },
+  "items": [
+    {
+      "number_of_pieces": 321,
+      "gross_weight": 6706,
+      "chargeable_weight": 8589.5,
+      "nature_of_goods": "CONSOL CARGO AS PER MANIFEST ATTACHED"
+    }
+  ],
+  "financial_summary": {
+    "total_prepaid": "AS AGREED",
+    "total_collect": ""
+  },
+  "regulatory_info": {
+    "dangerous_goods_certification": "Shipper certifies that the particulars on the face hereof are correct and that insofar as any part of the consignment contains dangerous goods such part is properly described by name and is in proper condition for carriage by air according to the applicable Dangerous Goods Regulations"
+  }
+}

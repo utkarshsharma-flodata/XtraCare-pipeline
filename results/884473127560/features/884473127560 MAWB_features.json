@@ -1,0 +1,77 @@
+{
+  "document_info": {
+    "awb_number": "023-5929 9516",
+    "hawb_number": "884473127560",
+    "date_of_shipment": "20250918",
+    "executed_on": "25-Sep-25",
+    "executed_at": "CAN"
+  },
+  "shipper": {
+    "name": "Federal Express",
+    "address": "#777 Fedex Road, Huadong Town, Haudu District, Guangzhou, 510 890, CHINA",
+    "iata_code": "",
+    "account_no": "",
+    "signature": "FEDEX"
+  },
+  "consignee": {
+    "name": "Fedex Express Transportation and supply Chain Services India Pvt Ltd",
+    "address": "Room No-14, Express Terminal, IGI Airport, New Delhi-110037",
+    "recipient_name": "ANKUSH DHINGRA",
+    "recipient_company": "GABA OVERSEAS PVT LTD",
+    "recipient_address": "VPO MACHHRAULI G T ROAD, PANIPAT, HR, 132103, IN",
+    "recipient_phone": "919896420092"
+  },
+  "sender": {
+    "name": "SYLVIANE GASSMANN",
+    "company": "SUPERBA S.A.S",
+    "address": "147 AVENUE ROBERT SCHUMAN, 68100 MULHOUSE, FRANCE",
+    "city": "MULHOUSE",
+    "state_province": "68",
+    "country": "FR",
+    "zip_postal_code": "68100",
+    "phone_number": "33389362742",
+    "federal_express_account_number": "945100001",
+    "signature": "SYLVIANE GASSMANN"
+  },
+  "shipment_information": {
+    "origin_station_id": "MLHB",
+    "destination_station_id": "DELPP",
+    "ursa_routing": "DELPP",
+    "no_of_packages": 1,
+    "total_weight": "30 K",
+    "chargeable_weight": "33.5 K",
+    "specific_currency": "EUR",
+    "total_declared_value_for_carriage": "",
+    "total_declared_value_for_customs": "6095.86 EUR",
+    "description_of_contents": "SPARE PARTS FOR TEXTILE MACHINE"
+  },
+  "handling_information": {
+    "pieces": 34,
+    "gross_weight_kg": 334.4,
+    "chargeable_weight": "496.59 K",
+    "nature_and_quantity_of_goods": "CONSOLIDATED CARGO AS PER CONSOL MANIFEST"
+  },
+  "financial_summary": {
+    "prepaid": "AS AGREED",
+    "total_prepaid": "AS AGREED",
+    "total_collect": "AS AGREED"
+  },
+  "logistics_details": {
+    "airport_of_departure": "CAN",
+    "airport_of_destination": "DEL",
+    "flight_number": "FX5279A",
+    "routing": [
+      {
+        "from": "CAN",
+        "to": "DEL"
+      }
+    ]
+  },
+  "regulatory_info": {
+    "customs_code": "",
+    "tax_id": ""
+  },
+  "terms_and_conditions": {
+    "conditions": "Shipper certifies that the particulars on the face hereof are correct and that insofar as any part of the consignment contains dangerous goods, such part is properly described by name and is in proper condition for carriage by air according to the applicable Dangerous Goods Regulations."
+  }
+}

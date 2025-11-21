@@ -1,0 +1,57 @@
+{
+  "document_info": {
+    "type": "WAYBILL DOC",
+    "date": "2023-09-30",
+    "waybill_number": "99 2954 0950"
+  },
+  "shipper": {
+    "name": "ZHONGBAO CHEMICALS CO., LIMITED",
+    "contact": "0086-571-85811826",
+    "address": {
+      "street": "WENYI TECHNOLOGICAL ZONE, HANGZHOU CITY",
+      "postal_code": "310030",
+      "city": "HANGZHOU",
+      "province": "ZHEJIANG PROVINCE",
+      "country": "CHINA",
+      "country_full": "CHINA, PEOPLES REPUBLIC"
+    }
+  },
+  "receiver": {
+    "name": "Laen Techper LLP",
+    "contact": "91-9910027237",
+    "address": {
+      "street": "Surendra Sekhar Sutarpathy, FLAT NO. 804, DSR ELAN'S, SECTOR-102, POCKET 4",
+      "city": "NEW DELHI",
+      "postal_code": "110077",
+      "country": "INDIA"
+    }
+  },
+  "routing": {
+    "origin": "CN-HGH-HGE",
+    "destination": "IN-DEL-GURGUAF"
+  },
+  "product_details": {
+    "service": "P1 EXPRESS WORLDWIDE (48)",
+    "features": "Duties & Taxes Unpaid(DS)"
+  },
+  "payer_details": {
+    "FRT": "601619597"
+  },
+  "billing": {
+    "service": "DTU"
+  },
+  "shipment_details": {
+    "ref_no": "No restricted",
+    "declared_value_for_customs": "5750.00 USD",
+    "content": "BETA ARBUTIN Bank AD Code 0510005 Invoice value USD5750.00",
+    "customs_declared_weight": "115.0 kg",
+    "pieces": 5
+  },
+  "license_plates": [
+    "JDD1460012289987365",
+    "JDD1460012289987366",
+    "JDD1460012289987367",
+    "JDD1460012289987368",
+    "JDD1460012289987369"
+  ]
+}

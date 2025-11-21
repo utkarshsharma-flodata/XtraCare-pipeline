@@ -1,0 +1,116 @@
+{
+  "document_info": {
+    "invoice_number": "INV250000553",
+    "invoice_date": "18/09/2025",
+    "customer_account": "001210"
+  },
+  "addresses": {
+    "delivery_address": {
+      "name": "GABA OVERSEAS PVT. LTD.",
+      "address": "UNIT-11, MACHROLLI VILLAGE, Panipat GT Road,Haryana 132103, India"
+    },
+    "invoice_address": {
+      "name": "GABA OVERSEAS PRIVATE LTD",
+      "registration_number": "U51909HR1990PTC031060",
+      "address": "Machhrauli, Panipat GT Road,Haryana 132103, India"
+    }
+  },
+  "items": [
+    {
+      "position": 1,
+      "quantity": 6.0,
+      "unit": "pc",
+      "item_number": "710701152",
+      "product_name": "PRESSURE REGULATOR",
+      "hs_code": "84519000",
+      "sales_price": 190.22,
+      "total": 1141.34
+    },
+    {
+      "position": 2,
+      "quantity": 1.0,
+      "unit": "pc",
+      "item_number": "710701076",
+      "product_name": "DIAPHRAGM ACCUMULATOR",
+      "hs_code": "84519000",
+      "sales_price": 208.57,
+      "total": 208.57
+    },
+    {
+      "position": 3,
+      "quantity": 3.0,
+      "unit": "pc",
+      "item_number": "710701160",
+      "product_name": "PRESSURE SENSOR + ADAPT. KIT",
+      "hs_code": "84519000",
+      "sales_price": 230.25,
+      "total": 690.74
+    },
+    {
+      "position": 4,
+      "quantity": 3.0,
+      "unit": "pc",
+      "item_number": "710701159",
+      "product_name": "PRESSURE SENSOR + ADAPT. KIT (10 - 50 bar)",
+      "hs_code": "84519000",
+      "sales_price": 214.25,
+      "total": 642.76
+    },
+    {
+      "position": 5,
+      "quantity": 3.0,
+      "unit": "pc",
+      "item_number": "710701151",
+      "product_name": "DISTRIBUTOR",
+      "hs_code": "84519000",
+      "sales_price": 171.32,
+      "total": 513.95
+    },
+    {
+      "position": 6,
+      "quantity": 56.0,
+      "unit": "m",
+      "item_number": "731930520",
+      "product_name": "S/S CONVEYOR BAND 260X0,25 DIA, 1,5 MM",
+      "hs_code": "84519000",
+      "sales_price": 51.76,
+      "total": 2898.5
+    }
+  ],
+  "financial_summary": {
+    "total": 6095.86,
+    "currency": "EUR",
+    "total_in_words": "EUR 6 095,86"
+  },
+  "shipping_details": {
+    "mode_of_delivery": "AIRFREIGHT",
+    "terms_of_delivery": "FCA - MULHOUSE INCOTERMS®2020",
+    "terms_of_payment": "Already paid",
+    "tax_exempt": "Exonération TVA, ART. 262-1 du CGI"
+  },
+  "bank_details": {
+    "bank_name": "LCL",
+    "address": "4 Rue de Chemnitz, 68200 Mulhouse - France",
+    "iban": "FR50 3000 2072 7100 0006 1144 B42",
+    "bic_swift": "CRLYFRPP"
+  },
+  "shipping_note": {
+    "packing_number": "460",
+    "customs_tariff": "84 51 90 00",
+    "marks": {
+      "name": "GABA OVERSEAS PVT. LTD.",
+      "address": "UNIT-11, MACHROLLI VILLAGE, Panipat GT Road,Haryana 132103, India"
+    },
+    "delivery_note": {
+      "number": "PS0019264",
+      "pallet_type": "DEMI_EURO",
+      "gross_weight": "30,00 kg",
+      "net_weight": "27,00 kg",
+      "pallet_dimensions": "80,00 x 60,00 x 35,00 cm"
+    }
+  },
+  "terms_and_conditions": {
+    "general_conditions": "These general conditions of sale apply to all our clients, unless otherwise stipulated between the parties in writing in the context of general conditions of the Buyer...",
+    "penalty_clause": "In the event of late payment, a penalty equal to 3 times the legal interest rate will be payable and a fixed indemnity for collection costs of €40 will be applied (art l441-6 and d441-5 of the French Commercial Code). - Made in France"
+  }
+}

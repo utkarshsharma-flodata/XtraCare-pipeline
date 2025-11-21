@@ -1,0 +1,259 @@
+{
+  "bill_of_entry_checklist": {
+    "document_header": {
+      "title": "Bill of Entry for Home Consumption",
+      "document_type": "Home Consumption",
+      "boe_number": "",
+      "boe_date": "04/10/2025",
+      "job_number": "6391",
+      "job_date": "04/10/2025",
+      "user_job_number": "",
+      "port_of_submission": "DELHI AIR CARGO ACC [INDEL4]",
+      "customs_house_code": "",
+      "mode_of_transport": "Air",
+      "assessment_officer": "",
+      "filing_location": "DELHI",
+      "prepared_by": "DIVYANK",
+      "prepared_datetime": "04-Oct-2025 12:56:37 PM",
+      "version": "1.0"
+    },
+    "cha_details": {
+      "cha_name": "IMPEX BUREAU",
+      "cha_code": "AAKPG4364KCH001",
+      "cha_address": "Impex Bureau, 81, Moulsari Avenue, DLF Phase 3",
+      "cha_city": "Haryana",
+      "cha_state": "Haryana",
+      "cha_pin": "122002"
+    },
+    "importer_details": {
+      "importer_name": "LAARS TECHAGE LLP",
+      "importer_address": "FLAT NO-285, DDA SFS FLATS SECTOR-9 POCKET 1, DWARKA, NEW DELHI",
+      "importer_city": "NEW DELHI",
+      "importer_state": "DELHI",
+      "importer_pin": "110077",
+      "branch_code": "0",
+      "pan_number": "AAIFL1020H",
+      "gstin_number": "07AAIFL1020H1ZR",
+      "state_code": "07",
+      "importer_type": "Private",
+      "green_channel": "No",
+      "first_check": "No",
+      "prior_be": "Yes",
+      "section_48": "No",
+      "kacha_be": "No",
+      "ad_code": "0510005",
+      "payment_mode": "TRANSACTION"
+    },
+    "supplier_details": {
+      "supplier_name": "ZHONGBAO CHEMICALS CO., LIMITED",
+      "supplier_address": "WESTLAKE TECHNICAL ZONE, HANGZHOU CITY, ZHEJIANG PROVINCE, P.C 310030, CHINA",
+      "supplier_city": "HANGZHOU",
+      "supplier_country": "CHINA",
+      "terms_of_payment": "Others",
+      "buyer_seller_related": "NO",
+      "nature_of_transaction": "OTHERS",
+      "valuation_method": "RULE4 TRANSACTION VALUE",
+      "exchange_rate": "1 USD = 89.7000 INR",
+      "freight": "63910.00 INR",
+      "insurance": "64.69 USD",
+      "agency_commission": "0.00",
+      "misc_charges": "0.00",
+      "high_sea_sale": "0.00",
+      "discount": "0.00",
+      "svb_reference": {}
+    },
+    "invoice_details": {
+      "invoice_number": "HZG25BT99133",
+      "invoice_date": "28/09/2025",
+      "invoice_currency": "USD",
+      "invoice_value": "5750.00",
+      "freight_in_inr": "63910.00",
+      "insurance_in_inr": "5802.69",
+      "total_invoice_value_in_inr": "",
+      "exchange_rate_details": {
+        "foreign_currency": "USD",
+        "rate_to_inr": "89.7000",
+        "conversion_note": "INS: 1 USD = 89.7000 INR; FRT: 1 INR = 1.0000 INR"
+      }
+    },
+    "shipment_details": {
+      "mawb_number": "NOMAWB",
+      "mawb_date": "04/10/2025",
+      "hawb_number": "9929540950",
+      "hawb_date": "30/09/2025",
+      "port_of_loading": "HANGZHOU",
+      "port_of_entry": "DELHI",
+      "country_of_origin": "CHINA",
+      "country_of_consignee": "CHINA",
+      "no_of_packages": "5",
+      "gross_weight": "115.000 KGS",
+      "marks_and_numbers": "AS PER AWB",
+      "igm_number": "0",
+      "igm_date": "",
+      "igm_inward_date": "",
+      "transit_country": "",
+      "location": "DELHI AIR CARGO ACC [ INDEL4 ] [ Air ]"
+    },
+    "item_details": [
+      {
+        "serial_number": "1",
+        "ritc_code": "29389090",
+        "description": "BETA ARBUTIN (RAW MATERIALS FOR COSMETIC USE ONLY)",
+        "generic_description": "BETA ARBUTIN",
+        "quantity": "100.000000",
+        "unit": "KGS",
+        "unit_price": "57.500",
+        "assessable_value_in_inr": "585487.47",
+        "cth": "29389090",
+        "bcd_rate": "7.50 %",
+        "bcd_amount": "43911.56",
+        "aidc_duty_rate": "0.00 %",
+        "aidc_duty_amount": "0.00",
+        "social_welfare_surcharge_rate": "10.00 %",
+        "social_welfare_surcharge_amount": "4391.16",
+        "igst_rate": "18.00 %",
+        "igst_amount": "114082.23",
+        "igst_cess_rate": "0.00 %",
+        "igst_cess_amount": "0.00",
+        "manufacturer_name": "ZHONGBAO CHEMICALS CO., LIMITED",
+        "brand_name": "UNBRANDED",
+        "model": "NA",
+        "country_of_origin": "CHINA",
+        "end_use": "GNX100",
+        "account_status": "0",
+        "remarks": "",
+        "exemption_details": {}
+      }
+    ],
+    "duty_summary": {
+      "total_assessable_value": "585487.47",
+      "bcd_total": "43911.56",
+      "sws_total": "4391.16",
+      "igst_total": "114082.23",
+      "grand_total_in_inr": "162385.00",
+      "grand_total_in_words": "Rupees One Lakh Sixty Two Thousand Three Hundred Eighty Five Only"
+    },
+    "igst_details": [
+      {
+        "invoice_number": "1",
+        "item_number": "1",
+        "duty_type": "G",
+        "igst_flag": "I",
+        "igst_notn_number": "009/2025 II36",
+        "igst_rate": "18.00",
+        "igst_amount": "114082.23"
+      },
+      {
+        "invoice_number": "1",
+        "item_number": "1",
+        "duty_type": "G",
+        "igst_flag": "P",
+        "igst_notn_number": "001/2017 56",
+        "igst_rate": "0.00",
+        "igst_amount": "0.00"
+      },
+      {
+        "invoice_number": "1",
+        "item_number": "1",
+        "duty_type": "C",
+        "igst_flag": "A",
+        "igst_notn_number": "011/2021 17",
+        "igst_rate": "0.00",
+        "igst_amount": "0.00"
+      }
+    ],
+    "single_window_info": [
+      {
+        "invoice_number": "1",
+        "item_number": "1",
+        "type": "CHR",
+        "qualifier_code": "SQC",
+        "qualifier_text": "Item Characteristics",
+        "measurement": "100.000000",
+        "unit": "KGS"
+      },
+      {
+        "invoice_number": "1",
+        "item_number": "1",
+        "type": "CTG",
+        "qualifier_code": "DRC MSC",
+        "qualifier_text": "Miscellaneous items not falling under the above categories.",
+        "measurement": "0.000000",
+        "unit": ""
+      },
+      {
+        "invoice_number": "1",
+        "item_number": "1",
+        "type": "CTG",
+        "qualifier_code": "CPC CPCPR",
+        "qualifier_text": "Proprietary Component, R&D or others",
+        "measurement": "0.000000",
+        "unit": ""
+      }
+    ],
+    "single_window_statement": [
+      {
+        "invoice_number": "0",
+        "item_number": "0",
+        "statement_for": "M",
+        "statement_type": "DEC",
+        "statement_code": "CUG00"
+      },
+      {
+        "invoice_number": "0",
+        "item_number": "0",
+        "statement_for": "M",
+        "statement_type": "DEC",
+        "statement_code": "CUG01"
+      },
+      {
+        "invoice_number": "1",
+        "item_number": "0",
+        "statement_for": "N",
+        "statement_type": "DEC",
+        "statement_code": "CUV01"
+      },
+      {
+        "invoice_number": "1",
+        "item_number": "0",
+        "statement_for": "N",
+        "statement_type": "DEC",
+        "statement_code": "CUV02"
+      },
+      {
+        "invoice_number": "1",
+        "item_number": "0",
+        "statement_for": "N",
+        "statement_type": "DEC",
+        "statement_code": "CUV03"
+      },
+      {
+        "invoice_number": "1",
+        "item_number": "1",
+        "statement_for": "T",
+        "statement_type": "UTG",
+        "statement_code": "DC007"
+      },
+      {
+        "invoice_number": "1",
+        "item_number": "1",
+        "statement_for": "T",
+        "statement_type": "DEC",
+        "statement_code": "PC002"
+      }
+    ],
+    "gst_summary": {
+      "gstin_number": "07AAIFL1020H1ZR",
+      "state_code": "07",
+      "state_name": "DELHI",
+      "igst_assessable_value": "633790.19",
+      "igst_amount": "114082.23",
+      "gst_cess_amount": "0.00"
+    },
+    "declaration": {
+      "declaration_text": "I/We declare that the particulars given herein are true and correct.",
+      "importer_signature": "LAARS TECHAGE LLP",
+      "signature_date": "04-Oct-2025"
+    }
+  }
+}

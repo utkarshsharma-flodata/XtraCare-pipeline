@@ -1,0 +1,131 @@
+{
+  "document_info": {
+    "invoice_no": "S10358993",
+    "invoice_date": "2025-09-18",
+    "payment_terms": "Net 30 Days from Invoice Date"
+  },
+  "shipper": {
+    "name": "Detection Technology Plc",
+    "address": "Elektroniikkatie 17, 90590 Oulu, Finland",
+    "contact": {
+      "telephone": "+358 20 766 9700",
+      "fax": "+358 20 766 9709",
+      "website": "www.deetee.com"
+    }
+  },
+  "consignee": {
+    "name": "DT Detection Technology India Private Limited",
+    "address": "601, 6th Floor, Tower – E, Cyberwalk, Plot No. – CP9, Sector 122052 Gurgaon, India",
+    "contact_person": "Gajendra Shekhawat",
+    "telephone": "+91989909136",
+    "email": "gajendra.shekhawat@deetee.com"
+  },
+  "shipping_details": {
+    "country_of_origin": "China",
+    "country_of_destination": "India",
+    "mode_of_transport": "Air",
+    "delivery_term": "EXW"
+  },
+  "items": [
+    {
+      "no": 1,
+      "item": "3000008478 MSCRW DIN7985 M2.5x16 A2 70",
+      "hs_code": "7318159090",
+      "quantity": "4000 ea",
+      "country_of_origin": "CN",
+      "unit_price": 2.0,
+      "amount": 8000.0,
+      "int_order_no_line": "100031341 / 1"
+    },
+    {
+      "no": 2,
+      "item": "3000007710 MNUT DIN985 M2.5 A2 70",
+      "hs_code": "73181600",
+      "quantity": "5200 ea",
+      "country_of_origin": "CN",
+      "unit_price": 6.0,
+      "amount": 31200.0,
+      "int_order_no_line": "100031341 / 2"
+    },
+    {
+      "no": 3,
+      "item": "3000002607 MWSH DIN125A M2.5 A2 HV140",
+      "hs_code": "7318220001",
+      "quantity": "20000 ea",
+      "country_of_origin": "CN",
+      "unit_price": 1.0,
+      "amount": 20000.0,
+      "int_order_no_line": "100031341 / 3"
+    },
+    {
+      "no": 4,
+      "item": "3000011193 Aurora 1.6 Cu filter t0.6",
+      "hs_code": "7409190000",
+      "quantity": "504 ea",
+      "country_of_origin": "CN",
+      "unit_price": 155.0,
+      "amount": 78120.0,
+      "int_order_no_line": "100031341 / 4"
+    },
+    {
+      "no": 5,
+      "item": "3000009031 Aurora MCBL flex 32pIn",
+      "hs_code": "8544421900",
+      "quantity": "500 ea",
+      "country_of_origin": "CN",
+      "unit_price": 50.0,
+      "amount": 25000.0,
+      "int_order_no_line": "100031341 / 5"
+    },
+    {
+      "no": 6,
+      "item": "3000011307 X-Card3 1.6 HE Bas DE CSI 4.0",
+      "hs_code": "9022909090",
+      "quantity": "30 ea",
+      "country_of_origin": "CN",
+      "unit_price": 6530.0,
+      "amount": 195900.0,
+      "int_order_no_line": "100031341 / 6"
+    },
+    {
+      "no": 7,
+      "item": "3000009226 X-Card3 1.6 LE, GOS:Tb screen",
+      "hs_code": "9022909090",
+      "quantity": "30 ea",
+      "country_of_origin": "CN",
+      "unit_price": 3561.0,
+      "amount": 106830.0,
+      "int_order_no_line": "100031341 / 7"
+    },
+    {
+      "no": 8,
+      "item": "3000029973 X-Card D021606414E",
+      "hs_code": "9022909090",
+      "quantity": "200 ea",
+      "country_of_origin": "CN",
+      "unit_price": 7885.0,
+      "amount": 1577000.0,
+      "int_order_no_line": "100031343 / 1"
+    },
+    {
+      "no": 9,
+      "item": "3000031489 X-GCU XS",
+      "hs_code": "9022909090",
+      "quantity": "12 ea",
+      "country_of_origin": "CN",
+      "unit_price": 15114.0,
+      "amount": 181368.0,
+      "int_order_no_line": "100031343 / 2"
+    }
+  ],
+  "financial_summary": {
+    "total_amount": 2223418.0,
+    "currency": "INR"
+  },
+  "terms_and_conditions": [
+    "Detection Technology's General Conditions of Sales apply unless otherwise agreed.",
+    "Products do not contain lasers, do not emit radiation and are used to detect X-Ray.",
+    "The products are NOT MEDICAL DEVICES.",
+    "There are No Aluminum Extrusions in products."
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "document_info": {
+    "company_name": "Laars Techage LLP",
+    "registered_office": {
+      "address": "FLAT NO-285, DDA SFS FLATS, SECTOR-9, POCKET-01, DWARKA, SOUTH WEST, NEW DELHI, South West Delhi, PIN-110077, India",
+      "telephone": "+91 11 45104734",
+      "email": "info@laarstechage.com"
+    },
+    "date": "08-10-2025"
+  },
+  "recipient": {
+    "name": "The Assistant Drug Controller, NCH",
+    "address": "IGI Airport, New Delhi-110037"
+  },
+  "subject": "Request letter for NOC regarding the shipment vide AWB# 9929540950",
+  "declaration": {
+    "statement": "We M/S Laars Techage LLP, hereby declare that the following items are the raw materials which will be used in the cosmetics application only:"
+  },
+  "items": [
+    {
+      "item_name": "Beta Arbutin",
+      "hsn_code": "29389090",
+      "quantity_kg": 100.0,
+      "amount_usd": 5750.0
+    }
+  ],
+  "total": {
+    "quantity_kg": 100.0,
+    "amount_usd": 5750.0
+  },
+  "additional_info": "Also, the goods are trading-wholesale/retail purpose only.",
+  "request": "We request you to kindly grant for NOC and release the consignment.",
+  "closing": {
+    "salutation": "Yours Sincerely",
+    "signature": "For M/S Laars Techage LLP",
+    "authorized_signatory": "Authorized Signatory"
+  }
+}

@@ -1,0 +1,251 @@
+{
+  "bill_of_entry_checklist": {
+    "document_header": {
+      "title": "Bill of Entry for Home Consumption",
+      "document_type": "Home Consumption",
+      "boe_number": "99 2954 0950",
+      "boe_date": "2023-09-30",
+      "job_number": "",
+      "job_date": "",
+      "user_job_number": "",
+      "port_of_submission": "",
+      "customs_house_code": "",
+      "mode_of_transport": "Air",
+      "assessment_officer": "",
+      "filing_location": "",
+      "prepared_by": "",
+      "prepared_datetime": "",
+      "version": ""
+    },
+    "cha_details": {
+      "cha_name": "",
+      "cha_code": "",
+      "cha_address": "",
+      "cha_city": "",
+      "cha_state": "",
+      "cha_pin": ""
+    },
+    "importer_details": {
+      "importer_name": "Laen Techper LLP",
+      "importer_address": "Surendra Sekhar Sutarpathy, FLAT NO. 804, DSR ELAN'S, SECTOR-102, POCKET 4",
+      "importer_city": "NEW DELHI",
+      "importer_state": "",
+      "importer_pin": "110077",
+      "branch_code": "",
+      "pan_number": "",
+      "gstin_number": "",
+      "state_code": "",
+      "importer_type": "",
+      "green_channel": "",
+      "first_check": "",
+      "prior_be": "",
+      "section_48": "",
+      "kacha_be": "",
+      "ad_code": "0510005",
+      "payment_mode": ""
+    },
+    "supplier_details": {
+      "supplier_name": "ZHONGBAO CHEMICALS CO., LIMITED",
+      "supplier_address": "WENYI TECHNOLOGICAL ZONE, HANGZHOU CITY",
+      "supplier_city": "HANGZHOU",
+      "supplier_country": "CHINA",
+      "terms_of_payment": "100% TT IN ADVANCE",
+      "buyer_seller_related": "",
+      "nature_of_transaction": "",
+      "valuation_method": "",
+      "exchange_rate": "",
+      "freight": "",
+      "insurance": "",
+      "agency_commission": "",
+      "misc_charges": "",
+      "high_sea_sale": "",
+      "discount": "",
+      "svb_reference": {
+        "svb_ref_no": "",
+        "svb_load_on": "",
+        "svb_load_status": "",
+        "svb_load_assessment": "",
+        "svb_load_duty": "",
+        "cust_house": ""
+      }
+    },
+    "invoice_details": {
+      "invoice_number": "HZG25BT99133",
+      "invoice_date": "Sep.28,2025",
+      "invoice_currency": "USD",
+      "invoice_value": "5750.00",
+      "freight_in_inr": "",
+      "insurance_in_inr": "",
+      "total_invoice_value_in_inr": "",
+      "exchange_rate_details": {
+        "foreign_currency": "",
+        "rate_to_inr": "",
+        "conversion_note": ""
+      }
+    },
+    "shipment_details": {
+      "mawb_number": "615 9966 1892",
+      "mawb_date": "4-Oct-2025",
+      "hawb_number": "99 2954 0950",
+      "hawb_date": "",
+      "port_of_loading": "SHANGHAI",
+      "port_of_entry": "NEW DELHI",
+      "country_of_origin": "CHINA",
+      "country_of_consignee": "INDIA",
+      "no_of_packages": 5,
+      "gross_weight": "115.0 kg",
+      "marks_and_numbers": "",
+      "igm_number": "",
+      "igm_date": "",
+      "igm_inward_date": "",
+      "transit_country": "",
+      "location": ""
+    },
+    "item_details": [
+      {
+        "serial_number": 1,
+        "ritc_code": "29389090",
+        "description": "BETA ARBUTIN",
+        "generic_description": "",
+        "model_number": "",
+        "quantity": "100KGS",
+        "unit": "",
+        "unit_price": "USD57.50/KG",
+        "assessable_value_in_inr": "5750.00",
+        "cth": "",
+        "ceth": "",
+        "std_pref_customs_notn": "",
+        "excise_notn": "",
+        "bcd_rate": "",
+        "bcd_amount": "",
+        "cvd_rate": "",
+        "cvd_amount": "",
+        "aidc_duty_rate": "",
+        "aidc_duty_amount": "",
+        "social_welfare_surcharge_rate": "",
+        "social_welfare_surcharge_amount": "",
+        "igst_rate": "",
+        "igst_amount": "",
+        "igst_cess_rate": "",
+        "igst_cess_amount": "",
+        "manufacturer_name": "",
+        "brand_name": "",
+        "model": "",
+        "country_of_origin": "CHINA",
+        "end_use": "",
+        "end_use_code": "",
+        "account_status": "",
+        "remarks": "",
+        "exemption_details": {
+          "notn_number": "",
+          "scheme_code": "",
+          "scheme_name": "",
+          "exemption_rate": "",
+          "bcd_exemption_applied": ""
+        }
+      }
+    ],
+    "license_details": [
+      {
+        "license_no": "",
+        "regn_no": "",
+        "port": "",
+        "regn_date": "",
+        "lic_cd": "",
+        "debited_qty": "",
+        "debited_value": "",
+        "debited_duty": "",
+        "lic_type": "",
+        "scheme": ""
+      }
+    ],
+    "bond_details": {
+      "bond_number": "",
+      "bond_code": "",
+      "bond_amount": "",
+      "bg_rate": "",
+      "bg_amount": "",
+      "bond_debited": "",
+      "bg_debited": "",
+      "bond_port": ""
+    },
+    "duty_summary": {
+      "total_assessable_value": "5750.00",
+      "bcd_total": "",
+      "sws_total": "",
+      "cvd_total": "",
+      "aidc_total": "",
+      "igst_total": "",
+      "igst_cess_total": "",
+      "safeguard_duty": "",
+      "anti_dumping_duty": "",
+      "health_cess": "",
+      "customs_health_cess": "",
+      "education_cess": "",
+      "grand_total_in_inr": "",
+      "grand_total_in_words": ""
+    },
+    "igst_details": [
+      {
+        "invoice_number": "",
+        "item_number": "",
+        "duty_type": "",
+        "igst_flag": "",
+        "igst_notn_number": "",
+        "igst_rate": "",
+        "igst_amount": "",
+        "exemption_notn_number": "",
+        "exemption_rate": "",
+        "exemption_amount": ""
+      }
+    ],
+    "single_window_info": [
+      {
+        "invoice_number": "",
+        "item_number": "",
+        "type": "",
+        "qualifier_code": "",
+        "qualifier_text": "",
+        "measurement": "",
+        "unit": ""
+      }
+    ],
+    "single_window_statement": [
+      {
+        "invoice_number": "",
+        "item_number": "",
+        "statement_for": "",
+        "statement_type": "",
+        "statement_code": ""
+      }
+    ],
+    "supporting_documents": [
+      {
+        "invoice_number": "",
+        "item_number": "",
+        "statement_for": "",
+        "document_number": "",
+        "document_type": "",
+        "issued_party": "",
+        "issue_place": "",
+        "issue_date": "",
+        "beneficiary_party": "",
+        "e_sanchit_id": "",
+        "icegate_id": ""
+      }
+    ],
+    "gst_summary": {
+      "gstin_number": "",
+      "state_code": "",
+      "state_name": "",
+      "igst_assessable_value": "",
+      "igst_amount": "",
+      "gst_cess_amount": ""
+    },
+    "declaration": {
+      "declaration_text": "I/We declare that the particulars given herein are true and correct.",
+      "importer_signature": "",
+      "signature_date": ""
+    }
+  }
+}

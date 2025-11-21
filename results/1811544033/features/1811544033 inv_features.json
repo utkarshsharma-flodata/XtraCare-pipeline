@@ -1,0 +1,364 @@
+{
+  "document_info": {
+    "invoice_no": "YII-0110/25",
+    "place_and_date": "VN 10/1/2025",
+    "tariff_no": ""
+  },
+  "shipper": {
+    "name": "YKK VIETNAM CO., LTD",
+    "address": "Lot 10, N2 Road, Nhon Trach 3, IP-Phase 2, Phuoc An Commune, Nhon Trach District, Dong Nai Province, VIET NAM",
+    "contact": "Attn: Demura Yoshihiro"
+  },
+  "receiver": {
+    "name": "YKK INDIA PRIVATE LIMITED",
+    "address": "Plot No.699, Sector-2, HSIDC Growth Centre Bawal, District: Rewari, Haryana-123501 (INDIA)",
+    "contact": "Attn: Mr. Kolde, Tel: +91-96535 55003"
+  },
+  "shipping_details": {
+    "from": "VIETNAM",
+    "to": "INDIA",
+    "terms_of_payment": "FOB",
+    "awb": "1811544003",
+    "vessel": "DHL"
+  },
+  "items": [
+    {
+      "description": "ROTARY SHAFT (Made in China)",
+      "part_no": "FXAA5A-12-F15",
+      "hs_code": "73181910",
+      "quantity": 1,
+      "unit": "PCS",
+      "unit_price_usd": 6.19,
+      "amount_usd": 6.19
+    },
+    {
+      "description": "CAM HOLDER (Made in Viet Nam)",
+      "part_no": "F63016A1-MGM013-01",
+      "hs_code": "73269099",
+      "quantity": 1,
+      "unit": "PCS",
+      "unit_price_usd": 14.02,
+      "amount_usd": 14.02
+    },
+    {
+      "description": "CAM HOLDER (Made in Viet Nam)",
+      "part_no": "F63016A1-MGM014",
+      "hs_code": "73269099",
+      "quantity": 1,
+      "unit": "PCS",
+      "unit_price_usd": 14.01,
+      "amount_usd": 14.01
+    },
+    {
+      "description": "BRACKET (Made in Viet Nam)",
+      "part_no": "F63016A1-MGM037",
+      "hs_code": "73269099",
+      "quantity": 2,
+      "unit": "PCS",
+      "unit_price_usd": 8.25,
+      "amount_usd": 16.51
+    },
+    {
+      "description": "PLATE (Made in Viet Nam)",
+      "part_no": "F63016A1-MGM039",
+      "hs_code": "72083800",
+      "quantity": 2,
+      "unit": "PCS",
+      "unit_price_usd": 3.45,
+      "amount_usd": 6.89
+    },
+    {
+      "description": "WASHER (Made in Taiwan)",
+      "part_no": "WSSB12-5-2",
+      "hs_code": "73182100",
+      "quantity": 4,
+      "unit": "PCS",
+      "unit_price_usd": 0.34,
+      "amount_usd": 1.34
+    },
+    {
+      "description": "WASHER (Made in JAPAN)",
+      "part_no": "WSSB13-6-2",
+      "hs_code": "73182100",
+      "quantity": 4,
+      "unit": "PCS",
+      "unit_price_usd": 0.06,
+      "amount_usd": 0.23
+    },
+    {
+      "description": "BOLTS (Made in Japan)",
+      "part_no": "MSSK3-3",
+      "hs_code": "73181510",
+      "quantity": 6,
+      "unit": "PCS",
+      "unit_price_usd": 0.19,
+      "amount_usd": 1.13
+    },
+    {
+      "description": "HOLDER (Made in Viet Nam)",
+      "part_no": "F6301601-MSF122",
+      "hs_code": "73269099",
+      "quantity": 1,
+      "unit": "PCS",
+      "unit_price_usd": 15.26,
+      "amount_usd": 15.26
+    },
+    {
+      "description": "PIN (Made in Viet Nam)",
+      "part_no": "F63016A1-M7V003-5CIO-T1",
+      "hs_code": "73269099",
+      "quantity": 2,
+      "unit": "PCS",
+      "unit_price_usd": 7.28,
+      "amount_usd": 14.55
+    },
+    {
+      "description": "CHAIN GUIDE (Made in Viet Nam)",
+      "part_no": "F63016A1-MCA007",
+      "hs_code": "73269099",
+      "quantity": 1,
+      "unit": "PCS",
+      "unit_price_usd": 15.26,
+      "amount_usd": 15.26
+    },
+    {
+      "description": "COVER (Made in Viet Nam)",
+      "part_no": "F6301601-MAV006-5VSO",
+      "hs_code": "73269099",
+      "quantity": 2,
+      "unit": "PCS",
+      "unit_price_usd": 14.6,
+      "amount_usd": 29.21
+    },
+    {
+      "description": "LEVER (Made in Viet Nam)",
+      "part_no": "F6301601-MAV074-5VSO",
+      "hs_code": "73269099",
+      "quantity": 1,
+      "unit": "PCS",
+      "unit_price_usd": 24.06,
+      "amount_usd": 24.06
+    },
+    {
+      "description": "LEVER (Made in Viet Nam)",
+      "part_no": "F6301601-MAV075-5VSO",
+      "hs_code": "72083800",
+      "quantity": 1,
+      "unit": "PCS",
+      "unit_price_usd": 4.23,
+      "amount_usd": 4.23
+    },
+    {
+      "description": "SET SCREW FLAT POINT FE 4x12 (Made in Viet Nam)",
+      "part_no": "SBL-M4012",
+      "hs_code": "73181510",
+      "quantity": 2,
+      "unit": "PCS",
+      "unit_price_usd": 0.4,
+      "amount_usd": 0.8
+    },
+    {
+      "description": "HEX BOLT (Made in Viet Nam)",
+      "part_no": "SBH-M8050",
+      "hs_code": "73181510",
+      "quantity": 1,
+      "unit": "PCS",
+      "unit_price_usd": 0.4,
+      "amount_usd": 0.4
+    },
+    {
+      "description": "HEX BOLT (Made in Viet Nam)",
+      "part_no": "SBH-M8030",
+      "hs_code": "73181510",
+      "quantity": 2,
+      "unit": "PCS",
+      "unit_price_usd": 0.4,
+      "amount_usd": 0.8
+    },
+    {
+      "description": "RESIN PUSHERS (Made in Japan)",
+      "part_no": "JPHMC8-3",
+      "hs_code": "39269099",
+      "quantity": 1,
+      "unit": "PCS",
+      "unit_price_usd": 9.8,
+      "amount_usd": 9.8
+    },
+    {
+      "description": "GUIDE (Made in Viet Nam)",
+      "part_no": "F63016A1-MDV009-5CIOR",
+      "hs_code": "72155099",
+      "quantity": 1,
+      "unit": "PCS",
+      "unit_price_usd": 97.41,
+      "amount_usd": 97.41
+    },
+    {
+      "description": "CYLINDER HOLDER (Made in Viet Nam)",
+      "part_no": "F63016A1-MDV003-5CIOR",
+      "hs_code": "73269099",
+      "quantity": 1,
+      "unit": "PCS",
+      "unit_price_usd": 10.68,
+      "amount_usd": 10.68
+    },
+    {
+      "description": "BASE BLOCK (Made in Viet Nam)",
+      "part_no": "F63016A1-MDV012-5CIOR",
+      "hs_code": "73269099",
+      "quantity": 1,
+      "unit": "PCS",
+      "unit_price_usd": 97.41,
+      "amount_usd": 97.41
+    },
+    {
+      "description": "SHAFT (Made in Viet Nam)",
+      "part_no": "F63016A1-MFR071",
+      "hs_code": "73269099",
+      "quantity": 1,
+      "unit": "PCS",
+      "unit_price_usd": 26.05,
+      "amount_usd": 26.05
+    },
+    {
+      "description": "WASHER ISO FE BLACK OXYDE (Made in Japan)",
+      "part_no": "W5",
+      "hs_code": "73182200",
+      "quantity": 5,
+      "unit": "PCS",
+      "unit_price_usd": 0.01,
+      "amount_usd": 0.05
+    },
+    {
+      "description": "WASHER ISO FE BLACK OXYDE (Made in Japan)",
+      "part_no": "W4",
+      "hs_code": "73182200",
+      "quantity": 8,
+      "unit": "PCS",
+      "unit_price_usd": 0.01,
+      "amount_usd": 0.1
+    },
+    {
+      "description": "HEX NUT TYPE 1 FE BLACK OXYDE (Made in Japan)",
+      "part_no": "N4",
+      "hs_code": "73181610",
+      "quantity": 2,
+      "unit": "PCS",
+      "unit_price_usd": 0.02,
+      "amount_usd": 0.04
+    },
+    {
+      "description": "CAP SCREW FE S/C 6x20 (Made in TAIWAN)",
+      "part_no": "SBA-M6020",
+      "hs_code": "73181590",
+      "quantity": 4,
+      "unit": "PCS",
+      "unit_price_usd": 0.1,
+      "amount_usd": 0.4
+    },
+    {
+      "description": "CAP SCREW FE S/C 6x25 (Made in TAIWAN)",
+      "part_no": "SBA-M6025",
+      "hs_code": "73181590",
+      "quantity": 4,
+      "unit": "PCS",
+      "unit_price_usd": 0.1,
+      "amount_usd": 0.4
+    },
+    {
+      "description": "SPRING WASHER (Made in Japan)",
+      "part_no": "SW6",
+      "hs_code": "73182200",
+      "quantity": 4,
+      "unit": "PCS",
+      "unit_price_usd": 0.1,
+      "amount_usd": 0.4
+    },
+    {
+      "description": "CAP SCREW FE S/C 4x10 (Made in TAIWAN)",
+      "part_no": "SBA-M4010",
+      "hs_code": "73181590",
+      "quantity": 4,
+      "unit": "PCS",
+      "unit_price_usd": 0.04,
+      "amount_usd": 0.17
+    },
+    {
+      "description": "CAP SCREW FE S/C 5x20 (Made in TAIWAN)",
+      "part_no": "SBA-M5020",
+      "hs_code": "73181590",
+      "quantity": 4,
+      "unit": "PCS",
+      "unit_price_usd": 0.1,
+      "amount_usd": 0.4
+    },
+    {
+      "description": "SPRING WASHER (Made in Japan)",
+      "part_no": "SW5",
+      "hs_code": "73182200",
+      "quantity": 4,
+      "unit": "PCS",
+      "unit_price_usd": 0.03,
+      "amount_usd": 0.12
+    },
+    {
+      "description": "CAP SCREW FE S/C 6x60 (Made in TAIWAN)",
+      "part_no": "SBA-M6060",
+      "hs_code": "73181590",
+      "quantity": 1,
+      "unit": "PCS",
+      "unit_price_usd": 0.02,
+      "amount_usd": 0.02
+    },
+    {
+      "description": "CAP SCREW FE S/C 4x20 (Made in TAIWAN)",
+      "part_no": "SBA-M4020",
+      "hs_code": "73181590",
+      "quantity": 4,
+      "unit": "PCS",
+      "unit_price_usd": 0.05,
+      "amount_usd": 0.2
+    },
+    {
+      "description": "WASHER ISO FE BLACK OXYDE (Made in TAIWAN)",
+      "part_no": "W8",
+      "hs_code": "73182200",
+      "quantity": 2,
+      "unit": "PCS",
+      "unit_price_usd": 0.03,
+      "amount_usd": 0.05
+    },
+    {
+      "description": "HEX NUT TYPE 1 FE BLACK OXYDE (Made in TAIWAN)",
+      "part_no": "N8",
+      "hs_code": "73181610",
+      "quantity": 3,
+      "unit": "PCS",
+      "unit_price_usd": 0.1,
+      "amount_usd": 0.3
+    },
+    {
+      "description": "HEX NUT TYPE 1 FE BLACK OXYDE (Made in TAIWAN)",
+      "part_no": "N6",
+      "hs_code": "73181610",
+      "quantity": 1,
+      "unit": "PCS",
+      "unit_price_usd": 0.04,
+      "amount_usd": 0.04
+    }
+  ],
+  "financial_summary": {
+    "total_quantity": 89,
+    "total_unit": "PCS",
+    "total_amount_usd": 408.92
+  },
+  "logistics": {
+    "net_weight_kg": 6.7,
+    "gross_weight_kg": 7.6
+  },
+  "notes": [
+    "No commercial value",
+    "Value for customs purpose only",
+    "Machine parts"
+  ]
+}

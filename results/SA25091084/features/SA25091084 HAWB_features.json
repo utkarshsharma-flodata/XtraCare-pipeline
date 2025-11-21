@@ -1,0 +1,76 @@
+{
+  "document_info": {
+    "awb_number": "SA250910843",
+    "shipper_reference": "406$ZX 44176661",
+    "date": "10 OCT 2025",
+    "place": "SHENZHEN"
+  },
+  "shipper": {
+    "name": "DT ELECTRONIC TECHNOLOGY (WUXI) CO., LTD.",
+    "address": "1F, BUILDING #1, YANSET ROAD, 30, HUISHAN ECONOMIC DEVELOPMENT ZONE, WUXI, JIANGSU, 214174, P.R. CHINA",
+    "telephone": "+86 0510-83560100"
+  },
+  "consignee": {
+    "name": "DT DETECTION TECHNOLOGY INDIA PRIVATE LIMITED",
+    "address": "601, 6TH FLOOR, TOWER - E, CYBERWALK, PLOT NO - CP9, SECTOR 12052 GURGAON, INDIA",
+    "contact_person": "GAJENDRA SHEKHAWAT",
+    "telephone": "+918991091316",
+    "email": "GAJENDRA.SHEKHAWAT@DEETEE.COM"
+  },
+  "notify_party": {
+    "name": "DETECTION TECHNOLOGY PLC",
+    "address": "ELEKTRONIIKKATIE 17, 90590 OULU, FINLAND",
+    "telephone": "+358 20 766 9700",
+    "fax": "+358 20 766 9709",
+    "website": "WWW.DEETEE.COM"
+  },
+  "shipping_details": {
+    "issued_by": "SINOTECH LOGISTICS CO., LTD",
+    "airport_of_departure": "SHENZHEN",
+    "airport_of_destination": "NEW DELHI",
+    "flight_number": "5X0015",
+    "flight_date": "10 OCT 2025",
+    "routing": {
+      "to": "DEL",
+      "by_first_carrier": "5X"
+    },
+    "currency": "USD",
+    "charges_code": "PP",
+    "declared_value_for_carriage": "NVD",
+    "declared_value_for_customs": "NCV",
+    "amount_of_insurance": "NIL"
+  },
+  "items": [
+    {
+      "number_of_pieces": 9,
+      "gross_weight": "65K",
+      "chargeable_weight": 138.5,
+      "rate_class": "",
+      "commodity_item_no": "",
+      "rate": "AS ARRANGED",
+      "total": "AS ARRANGED",
+      "nature_and_quantity_of_goods": "DETECTION CARD Ⓧ-LINK SCREW",
+      "dimensions": [
+        "40*31*20CM/1",
+        "86*45*51CM/6",
+        "41*31*32CM/2"
+      ],
+      "volume": "0.83CBM",
+      "freight_terms": "FREIGHT COLLECT"
+    }
+  ],
+  "financial_summary": {
+    "prepaid": "AS ARRANGED",
+    "collect": "",
+    "other_charges": "",
+    "valuation_charge": "",
+    "tax": "",
+    "total_other_charges_due_agent": "",
+    "total_other_charges_due_carrier": "AS ARRANGED",
+    "total_prepaid": "AS ARRANGED",
+    "total_collect": ""
+  },
+  "regulatory_info": {
+    "handling_information": "TOTAL: 9CTNS ONLY. NO S.W.P.M. NO DOCUMENT ATTACHED"
+  }
+}

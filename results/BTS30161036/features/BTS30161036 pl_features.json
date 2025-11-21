@@ -1,0 +1,57 @@
+{
+  "document_info": {
+    "doc_no": "SH0000187",
+    "order_no": "SO0000065",
+    "document_date": "06.02.2025",
+    "pick_up_date": "06.02.2025",
+    "currency": "USD",
+    "delivery_terms": "DAP",
+    "customer_no": "IC0000008",
+    "seller": "Juraj Zok"
+  },
+  "delivery_address": {
+    "company": "Three Aces Global Logistics Private",
+    "address_line_1": "KH NO. 483 WPO Bharthal Village",
+    "address_line_2": "Sector 26, Dwarka",
+    "city": "New Delhi",
+    "postal_code": "110077",
+    "country": "India"
+  },
+  "invoice_address": {
+    "name": "Vikas Bamrara",
+    "address_line_1": "366, DDA SFS Apartment",
+    "address_line_2": "Pocket 1, Sector 9",
+    "city": "Dwarka, New Delhi",
+    "postal_code": "110075",
+    "country": "India"
+  },
+  "items": [
+    {
+      "product_no": "12511",
+      "description": "PixiHome OD",
+      "quantity": 1,
+      "unit": "ea"
+    }
+  ],
+  "pick_up": {
+    "location": "LM 160 DO"
+  },
+  "company_info": {
+    "name": "Pixii AS",
+    "address": {
+      "street": "Andøyfaret 15",
+      "city": "4623 KRISTIANSAND S",
+      "country": "Norway"
+    },
+    "web_email": {
+      "website": "www.pixii.com",
+      "email": "finance@pixii.com"
+    },
+    "corporate_id_number": "NO920652964MVA",
+    "business_register": "",
+    "vat_reg": "SK4120253555",
+    "eori": "SKNOC2100356",
+    "swift_address": "DABANO22",
+    "iban": "NO29860818170320"
+  }
+}

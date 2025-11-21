@@ -1,0 +1,90 @@
+{
+  "document_info": {
+    "document_type": "",
+    "invoice_number": "",
+    "invoice_date": "",
+    "currency": "",
+    "customer_id": "",
+    "expiration_date": ""
+  },
+
+  "seller_details": {
+    "seller_name": "",
+    "seller_address": "",
+    "seller_city": "",
+    "seller_country": "",
+    "seller_org_number": "",
+    "seller_website": "",
+    "ship_from_name": "",
+    "ship_from_address": "",
+    "ship_from_city": "",
+    "ship_from_country": ""
+  },
+
+  "buyer_details": {
+    "buyer_name": "",
+    "buyer_address": "",
+    "buyer_city": "",
+    "buyer_state": "",
+    "buyer_country": "",
+    "buyer_contact": "",
+    "buyer_email": ""
+  },
+
+  "ship_to_details": {
+    "ship_to_name": "",
+    "ship_to_address": "",
+    "ship_to_city": "",
+    "ship_to_state": "",
+    "ship_to_country": "",
+    "freight_type": "",
+    "estimated_ship_date": "",
+    "estimated_gross_weight": "",
+    "estimated_cubic_weight": "",
+    "total_packages": ""
+  },
+
+  "manufacturer_details": {
+    "manufacturer_name": "",
+    "manufacturer_address": "",
+    "manufacturer_city": "",
+    "manufacturer_country": ""
+  },
+
+  "item_details": [
+    {
+      "part_number": "",
+      "description": "",
+      "hs_code": "",
+      "unit_of_measure": "",
+      "quantity": "",
+      "unit_price": "",
+      "tax_rate": "",
+      "total_amount": "",
+      "currency": ""
+    }
+  ],
+
+  "financial_summary": {
+    "subtotal": "",
+    "taxable_value": "",
+    "tax_rate": "",
+    "tax_amount": "",
+    "freight_charge": "",
+    "insurance_charge": "",
+    "legal_or_consular_charge": "",
+    "inspection_or_cert_charge": "",
+    "other_charge_1": "",
+    "other_charge_2": "",
+    "total_invoice_value": "",
+    "currency": ""
+  },
+
+  "terms_and_comments": {
+    "terms_of_sale": "",
+    "other_comments": "",
+    "incoterm": "",
+    "payment_terms": "",
+    "additional_instructions": ""
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "bill_of_entry_checklist": {
+    "document_header": {
+      "mode_of_transport": "Air"
+    },
+    "importer_details": {
+      "importer_name": "GABA OVERSEAS PVT LTD",
+      "importer_address": "VILLAGE MACHHRAULI, G.T. ROAD, PANIPAT, HARYANA, PANIPAT, PIN- 132103"
+    },
+    "supplier_details": {
+      "supplier_name": "SUPERBA S.A.S",
+      "supplier_address": "147 AVENUE ROBERT SCHUMAN, 68100 MULHOUSE, FRANCE",
+      "supplier_city": "MULHOUSE",
+      "supplier_country": "FR",
+      "terms_of_payment": "Already paid"
+    },
+    "invoice_details": {
+      "invoice_number": "INV250000553",
+      "invoice_date": "18/09/2025",
+      "invoice_currency": "EUR",
+      "invoice_value": "6095.86"
+    },
+    "shipment_details": {
+      "mawb_number": "023-5929 9516",
+      "hawb_number": "884473127560",
+      "port_of_loading": "CAN",
+      "port_of_entry": "DEL",
+      "country_of_origin": "FR",
+      "country_of_consignee": "IN",
+      "no_of_packages": "1",
+      "gross_weight": "30 K"
+    },
+    "item_details": [
+      {
+        "serial_number": "1",
+        "description": "PRESSURE REGULATOR",
+        "quantity": "6.0",
+        "unit": "pc",
+        "unit_price": "190.22",
+        "assessable_value_in_inr": "1141.34",
+        "hs_code": "84519000"
+      },
+      {
+        "serial_number": "2",
+        "description": "DIAPHRAGM ACCUMULATOR",
+        "quantity": "1.0",
+        "unit": "pc",
+        "unit_price": "208.57",
+        "assessable_value_in_inr": "208.57",
+        "hs_code": "84519000"
+      },
+      {
+        "serial_number": "3",
+        "description": "PRESSURE SENSOR + ADAPT. KIT",
+        "quantity": "3.0",
+        "unit": "pc",
+        "unit_price": "230.25",
+        "assessable_value_in_inr": "690.74",
+        "hs_code": "84519000"
+      },
+      {
+        "serial_number": "4",
+        "description": "PRESSURE SENSOR + ADAPT. KIT (10 - 50 bar)",
+        "quantity": "3.0",
+        "unit": "pc",
+        "unit_price": "214.25",
+        "assessable_value_in_inr": "642.76",
+        "hs_code": "84519000"
+      },
+      {
+        "serial_number": "5",
+        "description": "DISTRIBUTOR",
+        "quantity": "3.0",
+        "unit": "pc",
+        "unit_price": "171.32",
+        "assessable_value_in_inr": "513.95",
+        "hs_code": "84519000"
+      },
+      {
+        "serial_number": "6",
+        "description": "S/S CONVEYOR BAND 260X0,25 DIA, 1,5 MM",
+        "quantity": "56.0",
+        "unit": "m",
+        "unit_price": "51.76",
+        "assessable_value_in_inr": "2898.5",
+        "hs_code": "84519000"
+      }
+    ],
+    "license_details": [
+      {
+        "license_no": "3331002713",
+        "regn_no": "33EAEPC00306AM26",
+        "port": "INTKD6-ICD TUGHLAKABAD, NEW DELHI 110020",
+        "regn_date": "28/05/2025",
+        "lic_type": "Manufacturer Exporter"
+      }
+    ],
+    "duty_summary": {
+      "total_assessable_value": "6095.86"
+    }
+  }
+}

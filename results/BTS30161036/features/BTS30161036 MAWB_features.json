@@ -1,0 +1,90 @@
+{
+  "document_info": {
+    "awb_number": "615-30161036",
+    "date": "07-FEB-2025",
+    "place": "BRATISLAVA"
+  },
+  "shipper": {
+    "name": "HANSEATIC SLOVAKIA S. R. O.",
+    "address": "SABINOVSKA 8, BRATISLAVA 82108, SLOVAKIA",
+    "telephone": "421940514675"
+  },
+  "consignee": {
+    "name": "NTC LOGISTICS INDIA PVT LTD.",
+    "address": "3RD FLOOR NO.305 AND 306DLF TOWER A,JASOLA, NEW DELHI, SOUTH EAST 110025, INDIA",
+    "telephone": "911269553212223"
+  },
+  "issuing_carrier_agent": {
+    "name": "HANSEATIC SLOVAKIA S. R. O.",
+    "city": "BRATISLAVA"
+  },
+  "agent": {
+    "iata_code": "78-3 5026/0015"
+  },
+  "accounting_info": {
+    "name": "ALDO MORETTO",
+    "company": "NTC LOGISTICS INDIA PVT LTD.",
+    "address": "3RD FLOOR, NO.305 AND 306, DLF A, JASOLA, NEW DELHI, SOUTH EAST DELHI, DELHI, 110025",
+    "email": "balki.skandan@wlgntgroup.in",
+    "telephone": "911269553212223",
+    "tax_ids": {
+      "gst": "07AACNT8066N1Z2",
+      "cin": "U63030TN2008PTC069505"
+    },
+    "reference_number": "GRN: FREIGHT PREPAID"
+  },
+  "shipping_details": {
+    "airport_of_departure": "BTS/BRATISLAVA",
+    "routing_and_destination": "LEJ",
+    "airport_of_destination": "DEL/DELHI",
+    "requested_flight_date": [
+      "Q25337/07",
+      "Q20548/10"
+    ],
+    "handling_information": "** SPX **",
+    "currency": "EUR",
+    "charges": {
+      "prepaid": "X",
+      "collect": "X",
+      "declared_value_for_carriage": "NVD",
+      "declared_value_for_customs": "NCV",
+      "amount_of_insurance": "XXX"
+    }
+  },
+  "items": [
+    {
+      "no_of_pieces": 1,
+      "gross_weight": 150,
+      "kg_lb": "K",
+      "rate_class": "",
+      "commodity_item_no": "",
+      "chargeable_weight": 251,
+      "rate_charge": 1,
+      "total": 1,
+      "nature_and_quantity_of_goods": "ELECTRICAL ENERGY STORAGE",
+      "hs_code": "85044095",
+      "dimensions": "80X80X235CM/1"
+    }
+  ],
+  "financial_summary": {
+    "prepaid": {
+      "weight_charge": 1,
+      "valuation_charge": "",
+      "tax": "",
+      "total_other_charges_due_agent": "",
+      "total_other_charges_due_carrier": "",
+      "total_prepaid": ""
+    },
+    "collect": {
+      "weight_charge": "",
+      "other_charges": "",
+      "total_collect": ""
+    },
+    "currency_conversion_rates": "",
+    "cc_charges_in_dest_currency": ""
+  },
+  "signature": {
+    "shipper_or_agent": "HANSEATIC SLOVAKIA",
+    "issuing_carrier_or_agent": "RICHARD MRAZ"
+  }
+}

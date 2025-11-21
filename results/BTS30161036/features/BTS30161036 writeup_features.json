@@ -1,0 +1,26 @@
+{
+  "document_info": {
+    "title": "To Whomsoever it May Concern"
+  },
+  "correspondence_office": {
+    "name": "Vikas Bamrara",
+    "address": "366, DDA SFS Apartment, Pocket 1, Sector – 9, Dwarka, New Delhi - 110075"
+  },
+  "statement": {
+    "declarant": "Vikas Bamrara",
+    "imported_product": "Pixii Home Cabinet",
+    "source": "Pixii AS",
+    "purpose": "demonstrative",
+    "event": "ELECRAMA -2025",
+    "location": "Greater Noida",
+    "event_dates": {
+      "start_date": "21st Feb 2025",
+      "end_date": "26th Feb 2025"
+    },
+    "future_use": "other Exhibitions",
+    "product_use": "Energy Storage Systems"
+  },
+  "signature": {
+    "name": "Vikas Bamrara"
+  }
+}

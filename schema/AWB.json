@@ -1,0 +1,109 @@
+{
+  "document_info": {
+    "document_type": "",
+    "hawb_number": "",
+    "mawb_number": "",
+    "awb_reference_number": "",
+    "date_of_issue": "",
+    "issued_by": "",
+    "issuing_carrier_agent": "",
+    "issuing_agent_signature": "",
+    "original_copy_number": ""
+  },
+
+  "shipper_details": {
+    "shipper_name": "",
+    "shipper_account_number": "",
+    "shipper_address": "",
+    "shipper_city": "",
+    "shipper_country": "",
+    "shipper_contact": "",
+    "shipper_phone": "",
+    "shipper_email": ""
+  },
+
+  "consignee_details": {
+    "consignee_name": "",
+    "consignee_account_number": "",
+    "consignee_address": "",
+    "consignee_city": "",
+    "consignee_country": "",
+    "consignee_contact": "",
+    "consignee_phone": "",
+    "consignee_email": ""
+  },
+
+  "notify_party": {
+    "notify_name": "",
+    "notify_address": "",
+    "notify_city": "",
+    "notify_country": "",
+    "notify_contact": "",
+    "notify_phone": "",
+    "notify_email": "",
+    "notify_gstin": "",
+    "notify_cin": ""
+  },
+
+  "routing_details": {
+    "airport_of_departure": "",
+    "airport_of_destination": "",
+    "routing": "",
+    "first_carrier": "",
+    "flight_numbers": "",
+    "flight_dates": "",
+    "intermediate_stops": "",
+    "requested_routing": "",
+    "requested_flight_date": ""
+  },
+
+  "cargo_details": {
+    "number_of_pieces": "",
+    "gross_weight": "",
+    "weight_unit": "",
+    "chargeable_weight": "",
+    "rate_class": "",
+    "commodity_item_number": "",
+    "hs_code": "",
+    "goods_description": "",
+    "package_dimensions": "",
+    "nature_and_quantity_of_goods": "",
+    "declared_value_for_carriage": "",
+    "declared_value_for_customs": "",
+    "insurance_amount": "",
+    "handling_information": "",
+    "sci_code": ""
+  },
+
+  "charges_and_values": {
+    "currency": "",
+    "freight_prepaid": "",
+    "freight_collect": "",
+    "valuation_charge": "",
+    "tax": "",
+    "total_other_charges_due_agent": "",
+    "total_other_charges_due_carrier": "",
+    "total_prepaid": "",
+    "total_collect": "",
+    "currency_conversion_rate": "",
+    "charges_at_destination": "",
+    "total_collect_charges": ""
+  },
+
+  "carrier_details": {
+    "carrier_name": "",
+    "carrier_city": "",
+    "carrier_iata_code": "",
+    "carrier_account_number": "",
+    "carrier_signature": "",
+    "carrier_date": "",
+    "carrier_location": ""
+  },
+
+  "certification": {
+    "dangerous_goods_certified": "",
+    "shipper_signature": "",
+    "shipper_signature_date": "",
+    "shipper_signature_place": ""
+  }
+}

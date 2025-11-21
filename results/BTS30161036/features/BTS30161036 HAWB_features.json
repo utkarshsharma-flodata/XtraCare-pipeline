@@ -1,0 +1,75 @@
+{
+  "document_info": {
+    "awb_number": "BTS30161036",
+    "type": "House Air Waybill",
+    "copies": "Copies 1, 2 and 3 of this Air Waybill are originals and have the same validity."
+  },
+  "shipper": {
+    "name": "PIXIT AS",
+    "address": "ANDØYFARET 15, KRISTIANSAND 4623, NORWAY",
+    "telephone": "421908203459"
+  },
+  "consignee": {
+    "name": "VIKAS BAMARA",
+    "address": "366 DDA SFS APARTMENT, POCKET 1 SECTOR 9, DWARKA NEW DELHI 110075, INDIA"
+  },
+  "issuing_carrier": {
+    "name": "HANSEATIC SLOVAKIA S. R. O.",
+    "location": "BRATISLAVA"
+  },
+  "accounting_info": "",
+  "agent_info": {
+    "iata_code": "78-3 5026/0015",
+    "account_no": ""
+  },
+  "airport_info": {
+    "departure": "BTS/BRATISLAVA",
+    "destination": "DEL/DELHI"
+  },
+  "routing": {
+    "to": "LEJ",
+    "by": "",
+    "to_2": "",
+    "by_2": "",
+    "currency": "X",
+    "wt_val": "X",
+    "other": "X",
+    "declared_value_carriage": "NVD",
+    "declared_value_customs": "NCV"
+  },
+  "flight_details": {
+    "requested_flight_date": "QZ5337/07 QZ0548/10",
+    "amount_of_insurance": "XXX"
+  },
+  "handling_info": "Handling Information: LOGISTICS INDIA PVT LTD, A-80, ROAD NO. 2, MAHIPALPUR EXTENSION, NH-8, NEAR RADISSON HOTEL, NEW DELHI, SOUTH EAST DELHI, DELHI, 110037, INDIA. TEL: +91 11 26787000",
+  "items": [
+    {
+      "no_of_pieces": 1,
+      "gross_weight": 150,
+      "kg_lb": "K",
+      "rate_class": "",
+      "commodity_item_no": "",
+      "chargeable_weight": 251,
+      "rate_charge": "",
+      "total": "",
+      "nature_of_goods": "HS 85044095 ELECTRICAL ENERGY STORAGE 80X80X235CM/1"
+    }
+  ],
+  "charges": {
+    "prepaid": "",
+    "weight_charge": "",
+    "collect": "",
+    "other_charges": "",
+    "valuation_charge": "",
+    "tax": "",
+    "total_other_charges_due_agent": "",
+    "total_other_charges_due_carrier": "",
+    "total_prepaid": "",
+    "total_collect": ""
+  },
+  "execution": {
+    "date": "07-FEB-2025",
+    "place": "BRATISLAVA",
+    "signature": "RICHARD MRAZ"
+  }
+}

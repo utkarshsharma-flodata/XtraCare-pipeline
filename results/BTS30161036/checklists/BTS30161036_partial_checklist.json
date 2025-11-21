@@ -1,0 +1,50 @@
+{
+  "bill_of_entry_checklist": {
+    "document_header": {
+      "title": "Bill of Entry for Home Consumption",
+      "document_type": "Home Consumption",
+      "version": "2024-12-06_Ver.2.6_Pixii_Home"
+    },
+    "importer_details": {
+      "importer_name": "Vikas Bamrara",
+      "importer_address": "366, DDA SFS Apartment, Pocket 1, Sector 9, Dwarka, New Delhi - 110075, India"
+    },
+    "supplier_details": {
+      "supplier_name": "Pixii AS",
+      "supplier_address": "Andøyfaret 15, 4623 Kristiansand, Norway"
+    },
+    "invoice_details": {
+      "invoice_number": "1358",
+      "invoice_date": "5.2.2025",
+      "invoice_currency": "USD",
+      "invoice_value": "1 654,48 USD"
+    },
+    "shipment_details": {
+      "mawb_number": "615-30161036",
+      "mawb_date": "07-FEB-2025",
+      "hawb_number": "BTS30161036",
+      "port_of_loading": "BTS/BRATISLAVA",
+      "port_of_entry": "DEL/DELHI",
+      "country_of_origin": "Norway",
+      "country_of_consignee": "India",
+      "no_of_packages": 1,
+      "gross_weight": 150
+    },
+    "item_details": [
+      {
+        "description": "PixiiHome OD",
+        "hs_code": "85044095",
+        "quantity": 1,
+        "unit": "ea",
+        "unit_price": 1654.48
+      }
+    ],
+    "duty_summary": {
+      "total_assessable_value": "1 654,48 USD"
+    },
+    "declaration": {
+      "declaration_text": "I/We declare that the particulars given herein are true and correct.",
+      "importer_signature": "Vikas Bamrara"
+    }
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "document_info": {
+    "authorization_number": "3331002713",
+    "date": "28/05/2025",
+    "import_validity": "28/05/2027",
+    "eo_period": "28/05/2031",
+    "udinepcg": "UDINEPCG00120300AM26"
+  },
+  "office_info": {
+    "name": "Office of the Joint Director General of Foreign Trade, Panipat",
+    "address": "O/o Joint DGFT, BSNL CSC Building, (Near City Police Station), GT Road, PANIPAT, HARYANA, 132103",
+    "email": "panipat-dgft@nic.in",
+    "phone": "0180-2650984/2651427"
+  },
+  "applicant_info": {
+    "name": "GABA OVERSEAS PVT LTD",
+    "address": "VILLAGE MACHHRAULI, G.T. ROAD, PANIPAT, HARYANA, PANIPAT, PIN- 132103",
+    "iec": "3392000477",
+    "exporter_type": "Manufacturer Exporter",
+    "exporter_status": 1,
+    "transferable_status": "Actual User",
+    "file_number": "33EAEPC00306AM26",
+    "licence_issue_details": "Please Refer Header Details",
+    "fob_value": {
+      "inr": 193200000.0,
+      "usd": 228099.17
+    }
+  },
+  "financial_info": {
+    "duty_saved_inr": 32200000.0,
+    "annual_average_inr": 0.0
+  },
+  "logistics_info": {
+    "port_of_registration": "INTKD6-ICD TUGHLAKABAD, NEW DELHI 110020",
+    "shipment_period": "6 Years",
+    "validity_of_authorisation": "24 Months (Refer Date of Digital Signature)",
+    "custom_notification": {
+      "number": "26/2023",
+      "date": "01/04/2023"
+    },
+    "currency_area": "GCA"
+  },
+  "utilization_info": {
+    "transferability_conditions": "Conditions in terms of paragraph 2.02 of HBP. 2023"
+  },
+  "items_exported": [
+    {
+      "s_no": 1,
+      "export_item_name": "Carpets, carpeting and rugs",
+      "itchs_code": "57024210"
+    },
+    {
+      "s_no": 2,
+      "export_item_name": "Carpets and other floor coverings, of cotton, other than durries",
+      "itchs_code": "57039010"
+    },
+    {
+      "s_no": 3,
+      "export_item_name": "Carpets, carpeting and rugs",
+      "itchs_code": "57029210"
+    },
+    {
+      "s_no": 4,
+      "export_item_name": "Carpets and other floor coverings other than durries of cotton",
+      "itchs_code": "57024910"
+    }
+  ],
+  "items_imported": [
+    {
+      "s_no": 1,
+      "item_description": "SPARE PARTS FOR TEXTILE MACHINE I.E. SHUTTLE LESS WEAVING MACHINE FITTED WITH JACQUARD.",
+      "itchs_code": "84484990",
+      "quantity": 800000.0,
+      "uom": "NUMBERS (NOS)",
+      "duty_saved_inr": 32200000.0
+    }
+  ],
+  "supporting_manufacturer": [
+    {
+      "s_no": 1,
+      "name": "GABA OVERSEAS PVT LTD",
+      "address": "VILLAGE MACHHRAULI,G.T. ROAD,,PANIPAT,132103",
+      "reg_no": "06AAACG6676P1ZZ",
+      "jurisdictional_central_excise": "CENTRAL EXCISE SCO NO. 272-274, SECTOR 13-17, HUDA, PANIPAT",
+      "type": "Factory Address"
+    }
+  ],
+  "co_licensee_info": {
+    "name": "Not Available"
+  },
+  "conditions": [
+    "This Authorization will be operative as per the provisions of the Foreign Trade Policy 2023 and the Handbook of Procedures 2023 or as per any other law/provisions for the time being in force.",
+    "The issuance of the Authorization shall be subject to the conditions/parameters as laid down in Chapter 5 of the Foreign Trade Policy (FTP) 2023 and the Handbook of Procedures (HBP) 2023.",
+    "Capital Goods as defined in Para 11.08 (read with Para 5.01) of the FTP 2023 only shall be allowed for imports/domestic procurement against this Authorization.",
+    "This Authorization shall be utilized in accordance with the provisions of the Foreign Trade Policy 2023 and the concerned Notification No. 26/2023 -Customs dated 1st April, 2023.",
+    "Import/Procurement of Capital Goods under this Authorization shall be subject to Actual User Condition till Export Obligation is completed and Export Obligation Discharge Certificate (EODC) is granted by the Regional Authority.",
+    "Authorization Holder shall submit an Installation Certificate either from the jurisdictional Customs authority or an independent Chartered Engineer, to the Regional Authority (RA), within 6 months (which can be extendable by 12 more months by RA) from the date of imports/domestic procurement.",
+    "In case of import of Spares, the Installation Certificate shall be submitted by the Authorization holder within a period of 3 years from the date of import/domestic procurement.",
+    "The Capital Goods are to be installed at the factory/premises of the Authorization Holder or his supporting manufacturer(s) as endorsed on this EPCG Authorization.",
+    "Authorization Holder shall have to fulfil Export Obligation as per Para 5.04 of the FTP 2023 read with Para 5.10 of the HBP 2023.",
+    "Authorization Holder shall be under obligation to export items as per details mentioned in this Authorization.",
+    "Authorization Holder shall also be required to maintain the past average level of exports achieved by the EPCG applicant in the preceding three licensing years for the same and similar products, as endorsed on this Authorization for the entire export obligation period, including extended period, if any.",
+    "EO shall be fulfilled by the authorization holder through export of goods which are manufactured by him or his supporting manufacturer / services rendered by him, for which the EPCG authorization has been granted.",
+    "Authorization Holder shall submit within 2 months from the date of expiry of the Export Obligation period, documents as prescribed under Paragraph 5.20 of the HBP 2023, as amended, from time to time, as evidence of fulfilment of Export Obligation imposed on this Authorization.",
+    "Failure to submit Installation Certificate in time or fulfil the Export Obligation in the manner as prescribed or any other condition of EPCG scheme shall be subject for action under Foreign Trade (Development & Regulation) Act, 1992 as amended, Orders and Rules made thereunder, provisions of FTP/HBP, Customs Act, 1962, as amended from time to time or any other law in force.",
+    "Every EPCG Authorization Holder shall maintain, for a period of 2 years from date of redemption, a true and proper account of exports/ supplies made and services rendered towards fulfilment of export obligation.",
+    "Authorisation holder shall submit to RA concerned a report on fulfilment of export obligation through online mode after expiry of first block period of four years and continuously till the expiry of valid EO period."
+  ]
+}
